@@ -9,16 +9,45 @@
   <h2 class="text-iris font-semibold text-center text-2xl mb-4">
     SECURING THE FUTURE: YOUTH IN <span class="text-limey">CYBERSECURITY</span>.
   </h2>
-  <p class="px-4">
+  <p class="px-4 mb-8">
     During our week-long summer camp, students will be given an immersive
     introduction to various important aspects of cybersecurity.
   </p>
-  <!-- <Box
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-    >
-      Hello!
-    </Box> -->
+
+  <section>
+    <div class="mb-16">
+      <Box
+        innerClass="p-4 pb-12"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+      >
+        <p>
+          "I really like how everything connected together like a puzzle piece!"
+        </p>
+      </Box>
+      <div class="flex float-right -right-6 -top-10 z-10 relative">
+        <div class="grid grid-cols-3 grid-rows-5">
+          <div class="bg-limey w-3 h-3 col-start-3 row-start-1" />
+          <div class="bg-limey w-3 h-3 col-start-3 row-start-3" />
+          <div class="bg-limey w-3 h-3 col-start-3 row-start-4" />
+          <div class="bg-limey w-3 h-3 col-start-2 row-start-4" />
+          <div class="bg-limey w-3 h-3 col-start-1 row-start-2" />
+        </div>
+        <div class="bg-limey text-sm text-black w-fit py-[10px] px-3">
+          <span class="font-semibold">Linux Workshop Participant</span>
+          <br />
+          <span>Park Village Elementary</span>
+        </div>
+        <div class="grid grid-cols-3 grid-rows-5">
+          <div class="bg-limey w-3 h-3 col-start-1 row-start-2" />
+          <div class="bg-limey w-3 h-3 col-start-1 row-start-4" />
+          <div class="bg-limey w-3 h-3 col-start-1 row-start-5" />
+          <div class="bg-limey w-3 h-3 col-start-2 row-start-4" />
+          <div class="bg-limey w-3 h-3 col-start-3 row-start-1" />
+        </div>
+      </div>
+    </div>
+  </section>
   <section>
     <Box
       outerClass="mt-4"
