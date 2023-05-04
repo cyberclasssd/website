@@ -2,10 +2,10 @@
     import Header from "$lib/components/Header.svelte";
 </script>
 
-<Header image="/cyberpunk2.gif">More Programs</Header>
-<main class="max-w-3xl m-auto">
+<Header image="/cyberpunk2.gif">MORE PROGRAMS</Header>
+<main class="max-w-3xl px-8 m-auto">
   <section class="m4">
-    <h2 class="text-xl p-4 font-bold">
+    <h2 class="p-4 text-xl font-bold">
       CyberPatriot: National Youth Cyber Education Program
     </h2>
     <p class="p-4">
@@ -31,7 +31,7 @@
     </p>
   </section>
   <section class="m4">
-    <h2 class="text-xl p-4 font-bold">CTFs</h2>
+    <h2 class="p-4 text-xl font-bold">CTFs</h2>
     <p class="p-4">
       CTFs, or "Capture the Flag" competitions, are challenging team
       competitions that we encourage you to try.
