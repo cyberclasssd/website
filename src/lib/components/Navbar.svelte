@@ -30,7 +30,7 @@
             </li>
 
             <li>
-              <a class="hover:font-bold" href="/"> More Programs </a>
+              <a class="hover:font-bold" href="/more-programs"> More Programs </a>
             </li>
           </ul>
         </div>
