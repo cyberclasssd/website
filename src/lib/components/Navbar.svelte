@@ -2,7 +2,10 @@
   let open = false;
 </script>
 
-<nav aria-label="Site Nav" class="bg-kuroi/40 backdrop-blur-sm fixed w-full z-50">
+<nav
+  aria-label="Site Nav"
+  class="bg-kuroi/40 backdrop-blur-sm fixed w-full z-50"
+>
   <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
     <div class="flex h-16 items-center justify-between">
       <div class="flex-1 md:flex md:items-center md:gap-12">
@@ -27,7 +30,7 @@
             </li>
 
             <li>
-              <a class="hover:font-bold" href="/"> More Projects </a>
+              <a class="hover:font-bold" href="/"> More Programs </a>
             </li>
           </ul>
         </div>
