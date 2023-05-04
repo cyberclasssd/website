@@ -6,7 +6,6 @@
   export let innerClass = "";
   export let outerClipPath = "";
   export let innerClipPath = "";
-
 </script>
 
 <div
@@ -14,13 +13,16 @@
   style:clip-path={outerClipPath}
 >
   <div
-    class="{color === 'iris'
-      ? 'text-white'
-      : 'text-black'} border-4"
+    class="{color === 'iris' ? 'text-white' : 'text-black'} border-4"
     style:border-color={theme.colors[bleedColor]}
     style:background-color={theme.colors[bleedColor]}
     style:clip-path={outerClipPath}
   >
-    <div style:clip-path={innerClipPath} class="{color === 'iris' ? 'bg-iris' : 'bg-limey'} {innerClass}"><slot /></div>
+    <div
+      style:clip-path={innerClipPath}
+      class="{color === 'iris' ? 'bg-iris' : 'bg-limey'} {innerClass}"
+    >
+      <slot />
+    </div>
   </div>
 </div>
