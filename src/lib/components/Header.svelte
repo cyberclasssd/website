@@ -10,7 +10,7 @@
   <Navbar />
   <div class="flex-1 flex justify-center items-center text-center">
     <h1
-      class="text-5xl sm:text-6xl md:text-7l lg:text-8xl text-limey text-glow font-bold"
+      class="text-5xl sm:text-6xl md:text-7l lg:text-8xl text-limey text-glow font-bold mx-8"
     >
       <slot />
     </h1>

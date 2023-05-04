@@ -6,6 +6,6 @@
 
 @layer utilities {
     .text-glow {
-        text-shadow: theme("colors.limey") 0 0 6px;
+        text-shadow: theme("colors.limey") 0 0 8px;
     }
 }

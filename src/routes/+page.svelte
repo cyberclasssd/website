@@ -4,7 +4,7 @@
   import Header from "$lib/components/Header.svelte";
 </script>
 
-<Header>CYBERCLASS SUMMER CAMP</Header>
+<Header>CYBERCLASS<br /> SUMMER CAMP</Header>
 <main class="max-w-3xl m-auto px-4">
   <h2 class="text-iris font-semibold text-center text-2xl mb-4">
     SECURING THE FUTURE: YOUTH IN <span class="text-limey">CYBERSECURITY</span>.
@@ -17,6 +17,7 @@
   <section>
     <div class="mb-16">
       <Box
+        outerClass="max-w-xl m-auto"
         innerClass="p-4 pb-12"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
@@ -25,7 +26,7 @@
           "I really like how everything connected together like a puzzle piece!"
         </p>
       </Box>
-      <div class="flex float-right -right-6 -top-10 z-10 relative">
+      <div class="flex float-right -right-3 -top-12 z-10 relative">
         <div class="grid grid-cols-3 grid-rows-5">
           <div class="bg-limey w-3 h-3 col-start-3 row-start-1" />
           <div class="bg-limey w-3 h-3 col-start-3 row-start-3" />

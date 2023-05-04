@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        mono: ["IBM Plex Mono"],
+        mono: ["IBM Plex Mono", 'monospace'],
       },
       colors: {
         kuroi: "#12101C",

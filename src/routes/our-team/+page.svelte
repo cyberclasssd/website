@@ -1,5 +1,4 @@
 <script>
-  import "$lib/app.css";
   import Header from "$lib/components/Header.svelte";
   import Person from "$lib/components/Person.svelte";
 </script>
