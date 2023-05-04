@@ -7,7 +7,12 @@
   <slot />
 
   <footer class="text-gray-600 py-6 mt-16 text-center">
-    &copy; Cyber Classroom {year}<br />
+    &copy; CyberClass {year}
+    &lt;<a
+      href="mailto:cyberclasspres@gmail.com"
+      class="underline text-gray-500">cyberclasspres@gmail.com</a
+    >&gt;
+    <br />
     Enjoy the rest of your {day}!
   </footer>
 </div>

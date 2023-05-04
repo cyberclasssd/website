@@ -15,4 +15,5 @@
       <slot />
     </h1>
   </div>
+  <div class="w-full bg-kuroi h-[1px]"></div>
 </header>
