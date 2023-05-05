@@ -8,9 +8,9 @@
   class="flex flex-col h-[50vh] bg-center bg-cover mb-8"
 >
   <Navbar />
-  <div class="flex-1 flex justify-center items-center text-center">
+  <div class="flex items-center justify-center flex-1 text-center">
     <h1
-      class="text-5xl sm:text-6xl md:text-7l lg:text-8xl text-limey text-glow font-bold mx-8"
+      class="mx-8 text-5xl font-bold sm:text-6xl md:text-7l lg:text-8xl text-limey text-glow"
     >
       <slot />
     </h1>

@@ -16,7 +16,7 @@
       <div class="md:flex md:items-center md:gap-12">
         <div class="{open ? '' : 'hidden'} md:block">
           <ul
-            class="absolute left-0 z-10 flex flex-col w-full gap-2 p-4 pr-8 text-xl text-right  md:gap-6 h-fit top-16 md:items-center md:flex-row bg-kuroi/80 backdrop-blur-sm md:text-base"
+            class="absolute left-0 z-10 flex flex-col w-full gap-2 p-4 pr-8 text-xl text-right md:static md:w-fit md:p-0 md:text-base md:gap-6 h-fit top-16 md:items-center md:flex-row md:bg-transparent bg-kuroi/80 md:backdrop-blur-0 backdrop-blur-sm"
           >
             <li>
               <a class="hover:font-bold" href="/"> Home </a>
