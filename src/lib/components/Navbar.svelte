@@ -13,7 +13,6 @@
           <img class="h-12" src="/cyberclass_logo.png" alt="logo" />
         </a>
       </div>
-
       <div class="md:flex md:items-center md:gap-12">
         <div class="{open ? '' : 'hidden'} md:block">
           <ul class="flex items-center gap-6">
@@ -30,7 +29,9 @@
             </li>
 
             <li>
-              <a class="hover:font-bold" href="/more-programs"> More Programs </a>
+              <a class="hover:font-bold" href="/more-programs">
+                More Programs
+              </a>
             </li>
           </ul>
         </div>
