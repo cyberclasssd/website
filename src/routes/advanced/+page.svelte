@@ -14,8 +14,9 @@
   </p>
   <p class="mt-8">
     We'll cover advanced web and software security, password cracking,
-    cryptography, and more in an interactive, hands-on environment. See below
-    for more detailed curriculum.
+    cryptography, and more in an <strong>interactive</strong>,
+    <strong>hands-on environment</strong>. See below for more detailed
+    curriculum.
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
@@ -64,29 +65,98 @@
     <ScheduleDay>
       <slot slot="day">MON</slot>
       <slot slot="description">
-        Review of the Linux operating system, then exploring log analysis and
-        password cracking.
+        Review of the <strong>Linux</strong> operating system, explore
+        <strong>log analysis</strong>
+        and <strong>password cracking</strong>. We will also cover
+        <strong>pwntools</strong>
+        with python, and advanced <strong>web exploitaition</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">TUE</slot>
       <slot slot="description">
-        Web exploitation and possible exploitations of modern day cryptosystems,
-        when they are badly implemented.
+        We will learn about computer and network <strong>forensics</strong>,
+        using tools like <strong>Wireshark</strong> and
+        <strong>Autopsy</strong>. We will continue exploring
+        <strong>web exploitation</strong>, with attacks like
+        <strong>XSS</strong>
+        and <strong>path traversal</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">WED</slot>
       <slot slot="description">
-        We will begin by reviewing the Linux operating system, then exploring
-        log analysis and password cracking.
+        <strong>Reverse engineering</strong> using
+        <strong>Cloud Binary Ninja</strong>, diving into low level languages
+        such as <strong>assembly</strong> and
+        <strong>C</strong>. An introduction to
+        <strong>binary exploitation</strong>
+        with <strong>buffer overflows</strong> and more.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
-      <slot slot="day">THUR</slot>
+      <slot slot="day">THU</slot>
       <slot slot="description">
-        We will begin by reviewing the Linux operating system, then exploring
-        log analysis and password cracking.
+        Continue learning about <strong>reverse engineering</strong> with more
+        advanced techniques, as well as more advanced
+        <strong>binary exploitation</strong>
+        techniques with <strong>ROP</strong> and <strong>format string</strong> attacks.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">FRI</slot>
+      <slot slot="description">
+        Dive into <strong>cryptography</strong>
+        <strong>block</strong>
+        and <strong>stream ciphers</strong>, as well as other elements of
+        <strong>modern cryptography.</strong> Learn how to attack and hack
+        <strong>Artifical Intelligence</strong>
+        with <strong>LLM prompt injections</strong>.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">MON</slot>
+      <slot slot="description">
+        Teach students how to <strong>read CTF writeups</strong>. Students will
+        also work together, testing their skills and competing in an actual
+        competition with guidance from instructors.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">TUE</slot>
+      <slot slot="description">
+        More <strong>binary exploitation</strong>, including how to bypass
+        protections such as basic <strong>stack canaries</strong> and binary
+        <strong>RELRO</strong>. Students will also continue
+        <strong>competing</strong> against one another.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">WED</slot>
+      <slot slot="description">
+        We will cover <strong>side channel</strong> attacks, including
+        <strong>timing attacks</strong>, before moving onto complicated attacks
+        such as <strong>differential power analysis</strong>. Competition
+        continues.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">THU</slot>
+      <slot slot="description">
+        Competition <strong>recap</strong> and <strong>award ceremony</strong>.
+        Students will learn about how to <strong>create writeups</strong>, and
+        will be given time to <strong>work on their own writeups</strong> on solutions
+        to solved problems.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">FRI</slot>
+      <slot slot="description">
+        Students will practice <strong>presenting</strong> and explaining their
+        writeups to one another. We will conclude with
+        <strong>fun cyber games and activities</strong>, and
+        <strong>next steps</strong>
+        for students <strong>to continue learning cybersecurity</strong>.
       </slot>
     </ScheduleDay>
   </section>

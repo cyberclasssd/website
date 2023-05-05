@@ -10,8 +10,9 @@
     During our weeklong summer camp, students will be given an immersive
     introduction to various fascinating aspects of cybersecurity. We will cover
     a broad range of security concepts including web security, reverse
-    engineering, Linux hardening, and more in an interactive, hands-on
-    environment. See below for more detailed curriculum.
+    engineering, Linux hardening, and more in an <strong>interactive</strong>,
+    <strong>hands-on environment</strong>. See below for more detailed
+    curriculum.
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
@@ -57,37 +58,44 @@
     <ScheduleDay>
       <slot slot="day">MON</slot>
       <slot slot="description">
-        We will begin with an introduction to safety and cyber law, then cover
-        computer malware, open source intelligence, search engines, and web
-        security.
+        We will begin with an introduction to <strong
+          >safety and cyber law</strong
+        >, then cover computer malware,
+        <strong>open source intelligence</strong>, search engines, and
+        <strong>web security</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">TUE</slot>
       <slot slot="description">
-        We will learn about how Python is used in ethical hacking, reverse
-        engineering, and binary exploitation (pwn).
+        We have an introduction to the <strong>Linux</strong> operating system,
+        and we'll explore <strong>computer networking</strong>,
+        <strong>social engineering</strong>
+        and <strong>phishing</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">WED</slot>
       <slot slot="description">
-        Topics include classical cryptography ciphers and modern cryptography.
-        We will discuss the RSA cryptosystem and number bases.
+        An introduction to how <strong>Python</strong> is used in ethical
+        hacking allowing for students to get a strong understanding in
+        <strong>reverse engineering</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
-      <slot slot="day">THUR</slot>
+      <slot slot="day">THU</slot>
       <slot slot="description">
-        We will explore cyberspace, computer networking, and hardening for the
-        Linux operating systems.
+        Topics include <strong>classical cryptography</strong> ciphers and
+        <strong>modern cryptography</strong>. We will discuss the RSA
+        cryptosystem and number bases.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">FRI</slot>
       <slot slot="description">
-        We will cover password security and social engineering, and conclude the
-        week with a fun ethical hacking competition (Capture the Flag style) to
+        We will cover <strong>password security</strong> and conclude the week
+        with a fun
+        <strong>ethical hacking competition</strong> (Capture the Flag style) to
         put to use everything we've learned!
       </slot>
     </ScheduleDay>
