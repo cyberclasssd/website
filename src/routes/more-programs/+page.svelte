@@ -2,6 +2,9 @@
     import Header from "$lib/components/Header.svelte";
 </script>
 
+<svelte:head>
+  <title>CyberClass: More Programs</title>
+</svelte:head>
 <Header image="/cyberpunk2.gif">MORE PROGRAMS</Header>
 <main class="max-w-3xl px-8 m-auto">
   <section class="m4">

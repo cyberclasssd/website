@@ -3,6 +3,9 @@
   import Person from "$lib/components/Person.svelte";
 </script>
 
+<svelte:head>
+  <title>CyberClass: Our Team</title>
+</svelte:head>
 <Header image="/our-team.png">OUR TEAM</Header>
 <main class="max-w-6xl m-auto px-8 md:grid md:grid-cols-3 md:gap-4">
   <Person imageUrl="/people/stephen.jpg" altText="Stephen holding a trophy.">

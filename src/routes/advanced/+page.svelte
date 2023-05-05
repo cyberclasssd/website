@@ -4,6 +4,9 @@
   import ScheduleDay from "$lib/components/ScheduleDay.svelte";
 </script>
 
+<svelte:head>
+  <title>CyberClass: Advanced Camp</title>
+</svelte:head>
 <Header>ADVANCED CAMP</Header>
 <main class="max-w-3xl px-8 m-auto">
   <p>

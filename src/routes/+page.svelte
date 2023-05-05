@@ -4,6 +4,9 @@
   import Header from "$lib/components/Header.svelte";
 </script>
 
+<svelte:head>
+  <title>CyberClass: Home</title>
+</svelte:head>
 <Header>CYBERCLASS<br /> SUMMER CAMP</Header>
 <main class="max-w-3xl px-4 m-auto">
   <h2 class="mb-4 text-2xl font-semibold text-center text-iris">
