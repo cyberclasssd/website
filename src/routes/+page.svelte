@@ -5,8 +5,8 @@
 </script>
 
 <Header>CYBERCLASS<br /> SUMMER CAMP</Header>
-<main class="max-w-3xl m-auto px-4">
-  <h2 class="text-iris font-semibold text-center text-2xl mb-4">
+<main class="max-w-3xl px-4 m-auto">
+  <h2 class="mb-4 text-2xl font-semibold text-center text-iris">
     SECURING THE FUTURE: YOUTH IN <span class="text-limey">CYBERSECURITY</span>.
   </h2>
   <p class="px-4 mb-8">
@@ -26,13 +26,13 @@
           "I really like how everything connected together like a puzzle piece!"
         </p>
       </Box>
-      <div class="flex float-right -right-3 -top-12 z-10 relative">
+      <div class="relative z-10 flex float-right -right-3 -top-12">
         <div class="grid grid-cols-3 grid-rows-5">
-          <div class="bg-limey w-3 h-3 col-start-3 row-start-1" />
-          <div class="bg-limey w-3 h-3 col-start-3 row-start-3" />
-          <div class="bg-limey w-3 h-3 col-start-3 row-start-4" />
-          <div class="bg-limey w-3 h-3 col-start-2 row-start-4" />
-          <div class="bg-limey w-3 h-3 col-start-1 row-start-2" />
+          <div class="w-3 h-3 col-start-3 row-start-1 bg-limey" />
+          <div class="w-3 h-3 col-start-3 row-start-3 bg-limey" />
+          <div class="w-3 h-3 col-start-3 row-start-4 bg-limey" />
+          <div class="w-3 h-3 col-start-2 row-start-4 bg-limey" />
+          <div class="w-3 h-3 col-start-1 row-start-2 bg-limey" />
         </div>
         <div class="bg-limey text-sm text-black w-fit py-[10px] px-3">
           <span class="font-semibold">Linux Workshop Participant</span>
@@ -40,11 +40,11 @@
           <span>Park Village Elementary</span>
         </div>
         <div class="grid grid-cols-3 grid-rows-5">
-          <div class="bg-limey w-3 h-3 col-start-1 row-start-2" />
-          <div class="bg-limey w-3 h-3 col-start-1 row-start-4" />
-          <div class="bg-limey w-3 h-3 col-start-1 row-start-5" />
-          <div class="bg-limey w-3 h-3 col-start-2 row-start-4" />
-          <div class="bg-limey w-3 h-3 col-start-3 row-start-1" />
+          <div class="w-3 h-3 col-start-1 row-start-2 bg-limey" />
+          <div class="w-3 h-3 col-start-1 row-start-4 bg-limey" />
+          <div class="w-3 h-3 col-start-1 row-start-5 bg-limey" />
+          <div class="w-3 h-3 col-start-2 row-start-4 bg-limey" />
+          <div class="w-3 h-3 col-start-3 row-start-1 bg-limey" />
         </div>
       </div>
     </div>
@@ -65,16 +65,18 @@
         engineering, Linux hardening, and more in an interactive, hands-on
         environment.
       </p>
-      <Box
-        color="limey"
-        outerClass="w-fit"
-        bleedColor="iris"
-        innerClass="px-4 py-1 font-semibold"
-        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      >
-        Learn More
-      </Box>
+      <a href="/intro">
+        <Box
+          color="limey"
+          outerClass="w-fit hover:opacity-90"
+          bleedColor="iris"
+          innerClass="px-4 py-1 font-semibold"
+          outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+          innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        >
+          Learn More
+        </Box>
+      </a>
     </Box>
     <Box
       color="limey"
@@ -92,16 +94,17 @@
         cybersecurity. To gauge student readiness, check out more detailed
         descriptions of curriculum.
       </p>
-      <Box
-        color="iris"
-        bleedColor="limey"
-        outerClass="w-fit ml-auto"
-        innerClass="px-4 py-1 font-semibold"
-        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      >
-        Learn More
-      </Box>
+      <a href="/advanced">
+        <Box
+          bleedColor="limey"
+          outerClass="w-fit ml-auto hover:opacity-90"
+          innerClass="px-4 py-1 font-semibold"
+          outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+          innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        >
+          Learn More
+        </Box>
+      </a>
     </Box>
   </section>
 </main>
