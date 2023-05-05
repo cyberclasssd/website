@@ -1,6 +1,6 @@
 <script>
   import Navbar from './Navbar.svelte';
-  export let image = "/cyberpunk.webm";
+  export let image = "/cyberpunk.gif";
 </script>
 
 <header
