@@ -7,7 +7,7 @@
 <Header>ADVANCED CAMP</Header>
 <main class="max-w-3xl px-8 m-auto">
   <p>
-    This camp will be an advanced and <strong>intensive</strong> continuation of
+    This camp will be an <strong>advanced and intensive</strong> continuation of
     CyberClass Summer Camp. Students may attend if they have previously participated
     in the Cyberclass Summer Camp, or if they already have a basic background in
     cybersecurity.
@@ -22,6 +22,7 @@
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
+        outerClass="hover:opacity-90"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         innerClass="px-4 py-2 font-bold text-lg"
@@ -69,7 +70,7 @@
         <strong>log analysis</strong>
         and <strong>password cracking</strong>. We will also cover
         <strong>pwntools</strong>
-        with python, and advanced <strong>web exploitaition</strong>.
+        with python, and advanced <strong>web exploitation</strong>.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
@@ -106,9 +107,8 @@
     <ScheduleDay>
       <slot slot="day">FRI</slot>
       <slot slot="description">
-        Dive into <strong>cryptography</strong>
-        <strong>block</strong>
-        and <strong>stream ciphers</strong>, as well as other elements of
+        Dive into <strong>cryptography</strong> with
+        <strong>block and stream ciphers</strong>, alongside other
         <strong>modern cryptography.</strong> Learn how to attack and hack
         <strong>Artifical Intelligence</strong>
         with <strong>LLM prompt injections</strong>.
@@ -118,7 +118,7 @@
       <slot slot="day">MON</slot>
       <slot slot="description">
         Teach students how to <strong>read CTF writeups</strong>. Students will
-        also work together, testing their skills and competing in an actual
+        also work together, testing their skills and competing in a fun
         competition with guidance from instructors.
       </slot>
     </ScheduleDay>
@@ -127,8 +127,8 @@
       <slot slot="description">
         More <strong>binary exploitation</strong>, including how to bypass
         protections such as basic <strong>stack canaries</strong> and binary
-        <strong>RELRO</strong>. Students will also continue
-        <strong>competing</strong> against one another.
+        <strong>RELRO</strong>. Students will also continue competing against
+        one another.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
@@ -152,8 +152,8 @@
     <ScheduleDay>
       <slot slot="day">FRI</slot>
       <slot slot="description">
-        Students will practice <strong>presenting</strong> and explaining their
-        writeups to one another. We will conclude with
+        Students will present and explain writeups to one another. We will
+        conclude with
         <strong>fun cyber games and activities</strong>, and
         <strong>next steps</strong>
         for students <strong>to continue learning cybersecurity</strong>.
@@ -164,6 +164,7 @@
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
+        outerClass="hover:opacity-90"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         innerClass="px-4 py-2 font-bold text-lg"
