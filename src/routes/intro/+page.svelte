@@ -14,13 +14,15 @@
     environment. See below for more detailed curriculum.
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
-    <Box
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      innerClass="px-4 py-2 font-bold text-lg"
-    >
-      Register Now
-    </Box>
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-4 py-2 font-bold text-lg"
+      >
+        Register Now
+      </Box>
+    </a>
   </button>
 
   <section class="mt-8">
@@ -38,8 +40,8 @@
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $200/student before 5/20</p>
-        <p>$250/student after 5/20</p>
+        <p>Early Bird: $200/student before 5/21</p>
+        <p>$250/student after 5/21</p>
         <p>Need based scholarships available.</p>
       </div>
       <div>
@@ -91,12 +93,14 @@
     </ScheduleDay>
   </section>
   <button class="flex items-center justify-center m-auto mt-8">
-    <Box
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      innerClass="px-4 py-2 font-bold text-lg"
-    >
-      Register Now
-    </Box>
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-4 py-2 font-bold text-lg"
+      >
+        Register Now
+      </Box>
+    </a>
   </button>
 </main>

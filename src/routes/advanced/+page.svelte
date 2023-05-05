@@ -7,9 +7,10 @@
 <Header>ADVANCED CAMP</Header>
 <main class="max-w-3xl px-8 m-auto">
   <p>
-    This camp will be an advanced continuation of CyberClass Summer Camp.
-    Students may attend if they have previously participated in the Cyberclass
-    Summer Camp, or if they already have a basic background in cybersecurity.
+    This camp will be an advanced and <strong>intensive</strong> continuation of
+    CyberClass Summer Camp. Students may attend if they have previously participated
+    in the Cyberclass Summer Camp, or if they already have a basic background in
+    cybersecurity.
   </p>
   <p class="mt-8">
     We'll cover advanced web and software security, password cracking,
@@ -17,14 +18,16 @@
     for more detailed curriculum.
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
-    <Box
-      color="limey"
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      innerClass="px-4 py-2 font-bold text-lg"
-    >
-      Register Now
-    </Box>
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        color="limey"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-4 py-2 font-bold text-lg"
+      >
+        Register Now
+      </Box>
+    </a>
   </button>
 
   <section class="mt-8">
@@ -36,14 +39,14 @@
     >
       <div>
         <h3 class="mb-2 text-lg font-semibold">DATES AND LOCATION</h3>
-        <p>July 17 - July 28 (Monday-Friday)</p>
+        <p>July 10 - July 21 (Two Weeks)</p>
         <p>9:30 AM - 5:00 PM</p>
         <p>Online, via Zoom.</p>
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $400/student before 5/20</p>
-        <p>$450/student after 5/20</p>
+        <p>Early Bird: $400/student before 5/21</p>
+        <p>$450/student after 5/21</p>
         <p>Need based scholarships available.</p>
       </div>
       <div>
@@ -88,13 +91,15 @@
     </ScheduleDay>
   </section>
   <button class="flex items-center justify-center m-auto mt-8">
-    <Box
-      color="limey"
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      innerClass="px-4 py-2 font-bold text-lg"
-    >
-      Register Now
-    </Box>
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        color="limey"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-4 py-2 font-bold text-lg"
+      >
+        Register Now
+      </Box>
+    </a>
   </button>
 </main>
