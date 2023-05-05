@@ -10,7 +10,7 @@
     <div class="flex items-center justify-between h-16">
       <div class="flex-1 md:flex md:items-center md:gap-12">
         <a href="/">
-          <img class="h-12" src="/cyberclass_logo.png" alt="logo" />
+          <img class="h-12" src="/cyberclass_logo_small.png" alt="logo" />
         </a>
       </div>
       <div class="md:flex md:items-center md:gap-12">
