@@ -57,7 +57,7 @@
   </section>
 
   <section class="flex flex-col gap-2 mt-8">
-    <h2 class="text-3xl font-bold text-center">SCHEDULE</h2>
+    <h2 class="text-3xl font-bold text-center">CURRICULUM</h2>
     <ScheduleDay>
       <slot slot="day">MON</slot>
       <slot slot="description">

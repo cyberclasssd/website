@@ -6,15 +6,12 @@
 
 <Header>INTRODUCTORY CAMP</Header>
 <main class="max-w-3xl px-8 m-auto">
-  <p>
-    This camp will be an advanced continuation of CyberClass Summer Camp.
-    Students may attend if they have previously participated in the Cyberclass
-    Summer Camp, or if they already have a basic background in cybersecurity.
-  </p>
   <p class="mt-8">
-    We'll cover advanced web and software security, password cracking,
-    cryptography, and more in an interactive, hands-on environment. See below
-    for more detailed curriculum.
+    During our weeklong summer camp, students will be given an immersive
+    introduction to various fascinating aspects of cybersecurity. We will cover
+    a broad range of security concepts including web security, reverse
+    engineering, Linux hardening, and more in an interactive, hands-on
+    environment. See below for more detailed curriculum.
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
     <Box
@@ -25,7 +22,7 @@
       Register Now
     </Box>
   </button>
-  
+
   <section class="mt-8">
     <h2 class="mb-2 text-3xl font-bold text-center">INFORMATION</h2>
     <Box
@@ -35,54 +32,61 @@
     >
       <div>
         <h3 class="mb-2 text-lg font-semibold">DATES AND LOCATION</h3>
-        <p>July 17 - July 28 (Monday-Friday)</p>
-        <p>9:30 AM - 5:00 PM</p>
+        <p>June 12 - June 16 (Monday-Friday)</p>
+        <p>9:30 AM - 2:30 PM</p>
         <p>Online, via Zoom.</p>
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $400/student before 5/20</p>
-        <p>$450/student after 5/20</p>
+        <p>Early Bird: $200/student before 5/20</p>
+        <p>$250/student after 5/20</p>
         <p>Need based scholarships available.</p>
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">ELIGIBILITY</h3>
-        <p>
-          Rising middle and high schoolers. Basic experience with cybersecurity
-          or computer science required.
-        </p>
+        <p>Rising 5-9th graders.</p>
+        <p>Open to all skill levels.</p>
       </div>
     </Box>
   </section>
 
   <section class="flex flex-col gap-2 mt-8">
-    <h2 class="text-3xl font-bold text-center">SCHEDULE</h2>
+    <h2 class="text-3xl font-bold text-center">CURRICULUM</h2>
     <ScheduleDay>
       <slot slot="day">MON</slot>
       <slot slot="description">
-        Review of the Linux operating system, then exploring log analysis and
-        password cracking.
+        We will begin with an introduction to safety and cyber law, then cover
+        computer malware, open source intelligence, search engines, and web
+        security.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">TUE</slot>
       <slot slot="description">
-        Web exploitation and possible exploitations of modern day cryptosystems,
-        when they are badly implemented.
+        We will learn about how Python is used in ethical hacking, reverse
+        engineering, and binary exploitation (pwn).
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">WED</slot>
       <slot slot="description">
-        We will begin by reviewing the Linux operating system, then exploring
-        log analysis and password cracking.
+        Topics include classical cryptography ciphers and modern cryptography.
+        We will discuss the RSA cryptosystem and number bases.
       </slot>
     </ScheduleDay>
     <ScheduleDay>
       <slot slot="day">THUR</slot>
       <slot slot="description">
-        We will begin by reviewing the Linux operating system, then exploring
-        log analysis and password cracking.
+        We will explore cyberspace, computer networking, and hardening for the
+        Linux operating systems.
+      </slot>
+    </ScheduleDay>
+    <ScheduleDay>
+      <slot slot="day">FRI</slot>
+      <slot slot="description">
+        We will cover password security and social engineering, and conclude the
+        week with a fun ethical hacking competition (Capture the Flag style) to
+        put to use everything we've learned!
       </slot>
     </ScheduleDay>
   </section>
