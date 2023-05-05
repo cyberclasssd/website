@@ -53,6 +53,32 @@
       </div>
     </Box>
   </section>
+  <section class="mt-8">
+    <h2 class="mb-2 text-3xl font-bold text-center">INSTRUCTORS</h2>
+    <Box
+      color="limey"
+      innerClass="grid-rows-3 m-auto space-y-8 p-8"
+      outerClipPath="polygon(0 0%, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%)"
+      innerClipPath="polygon(0 0%, calc(100% - 6px) 0, 100% 6px, 100% 100%, 0 100%)"
+    >
+      <div class="grid space-y-4">
+        <p>
+          Taught by National Finalists of CyberPatriot, winners of CMU's
+          PicoCTF, and Presidents of Canyon Crest Academy's cybersecurity
+          program. All of our instructors have extensive experience coaching
+          middle and high schoolers and are incredibly passionate about
+          cybersecurity. We are extremely excited to share the world of
+          cybersecurity with you!
+        </p>
+        <p>
+          See more about our instructors and team <a
+            href="/our-team"
+            class="underline hover:text-blue-500 visited:text-iris">here</a
+          >.
+        </p>
+      </div>
+    </Box>
+  </section>
 
   <section class="flex flex-col gap-2 mt-8">
     <h2 class="text-3xl font-bold text-center">CURRICULUM</h2>
@@ -113,4 +139,52 @@
       </Box>
     </a>
   </button>
+  <section class="mt-8">
+    <h2 class="mb-2 text-3xl font-bold text-center">FAQ</h2>
+    <Box
+      innerClass="m-auto space-y-8 p-8"
+      outerClipPath="polygon(0 0%, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%)"
+      innerClipPath="polygon(0 0%, calc(100% - 6px) 0, 100% 6px, 100% 100%, 0 100%)"
+    >
+      <div>
+        <h3 class="mb-2 text-lg font-semibold">TECHNICAL REQUIREMENTS</h3>
+        <p>
+          Stable Internet and a device that has the Zoom app. You will also need
+          pencil and paper on hand for scratchwork.
+        </p>
+      </div>
+      <div>
+        <h3 class="mb-2 text-lg font-semibold">WILL THERE BE HOMEWORK?</h3>
+        <p>
+          Out of class assignments will be given to solidify concepts and act as
+          enrichment, but all homework given will be optional.
+        </p>
+      </div>
+      <div>
+        <h3 class="mb-2 text-lg font-semibold">WHAT'S YOUR REFUND POLICY?</h3>
+        <p>
+          Full refunds will be given, minus a $20 processing fee, for
+          cancellations requested before 6/6. No refunds may be issued after
+          6/6.
+        </p>
+      </div>
+      <div>
+        <h3 class="mb-2 text-lg font-semibold">
+          DO I NEED TO KNOW HOW TO CODE?
+        </h3>
+        <p>
+          No. In general, coding will not be the focus of this summer camp, but
+          rather a tool used in a cybersecurity context. Any necessary coding
+          concepts will be taught.
+        </p>
+      </div>
+      <div>
+        <h3 class="mb-2 text-lg font-semibold">MORE QUESTIONS?</h3>
+        <p>
+          Feel free to contact us at cyberclasspres@gmail.com for any comments,
+          questions, or concerns.
+        </p>
+      </div>
+    </Box>
+  </section>
 </main>
