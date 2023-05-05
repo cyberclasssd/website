@@ -4,10 +4,10 @@
 
 <nav
   aria-label="Site Nav"
-  class="bg-kuroi/40 backdrop-blur-sm fixed w-full z-50"
+  class="fixed z-50 w-full bg-kuroi/40 backdrop-blur-sm"
 >
-  <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
-    <div class="flex h-16 items-center justify-between">
+  <div class="max-w-screen-xl px-4 mx-auto sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
       <div class="flex-1 md:flex md:items-center md:gap-12">
         <a href="/">
           <img class="h-12" src="/cyberclass_logo.png" alt="logo" />
@@ -18,7 +18,7 @@
         <div class="{open ? '' : 'hidden'} md:block">
           <ul class="flex items-center gap-6">
             <li>
-              <a class="hover:font-bold" href="/"> Introductory Camp </a>
+              <a class="hover:font-bold" href="/intro"> Introductory Camp </a>
             </li>
 
             <li>
@@ -36,14 +36,14 @@
         </div>
 
         <div class="flex items-center gap-4 md:hidden">
-          <div class="h-8 w-8">
+          <div class="w-8 h-8">
             <button
-              class="rounded p-2 text-white transition hover:text-white/75"
+              class="p-2 text-white transition rounded hover:text-white/75"
               on:click={() => (open = !open)}
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="h-5 w-5"
+                class="w-5 h-5"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"

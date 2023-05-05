@@ -4,7 +4,7 @@
   import ScheduleDay from "$lib/components/ScheduleDay.svelte";
 </script>
 
-<Header>ADVANCED CAMP</Header>
+<Header>INTRODUCTORY CAMP</Header>
 <main class="max-w-3xl px-8 m-auto">
   <p>
     This camp will be an advanced continuation of CyberClass Summer Camp.
@@ -18,7 +18,6 @@
   </p>
   <button class="flex items-center justify-center m-auto mt-8">
     <Box
-      color="limey"
       outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
       innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
       innerClass="px-4 py-2 font-bold text-lg"
@@ -26,7 +25,7 @@
       Register Now
     </Box>
   </button>
-
+  
   <section class="mt-8">
     <h2 class="mb-2 text-3xl font-bold text-center">INFORMATION</h2>
     <Box
@@ -89,7 +88,6 @@
   </section>
   <button class="flex items-center justify-center m-auto mt-8">
     <Box
-      color="limey"
       outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
       innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
       innerClass="px-4 py-2 font-bold text-lg"

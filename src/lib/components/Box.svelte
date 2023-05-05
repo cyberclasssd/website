@@ -13,7 +13,7 @@
   style:clip-path={outerClipPath}
 >
   <div
-    class="{color === 'iris' ? 'text-white' : 'text-black'} border-4"
+    class="{color === 'iris' ? 'text-white' : 'text-black'} border-4 h-full w-full"
     style:border-color={theme.colors[bleedColor]}
     style:background-color={theme.colors[bleedColor]}
     style:clip-path={outerClipPath}
