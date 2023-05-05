@@ -10,12 +10,14 @@
     <div class="flex items-center justify-between h-16">
       <div class="flex-1 md:flex md:items-center md:gap-12">
         <a href="/">
-          <img class="h-12 w-10" src="/cyberclass_logo_small.png" alt="logo" />
+          <img class="w-10 h-12" src="/cyberclass_logo_small.png" alt="logo" />
         </a>
       </div>
       <div class="md:flex md:items-center md:gap-12">
         <div class="{open ? '' : 'hidden'} md:block">
-          <ul class="flex items-center gap-6">
+          <ul
+            class="absolute left-0 z-10 flex flex-col w-full gap-2 p-4 pr-8 text-xl text-right  md:gap-6 h-fit top-16 md:items-center md:flex-row bg-kuroi/80 backdrop-blur-sm md:text-base"
+          >
             <li>
               <a class="hover:font-bold" href="/"> Home </a>
             </li>
