@@ -53,7 +53,7 @@
       <slot slot="bio">
         Danniell is an incoming freshman at UCLA. He's been involved with
         CCA/PTMS Cyber for the past three years, where he has served as the head
-        captain of Linux. He has also placed second in HSCTF, the
+        captain of Linux. He has also placed third in HSCTF, the
         longest-running high school CTF hacking competition. Danniell's hobbies
         also include chemistry, and he has really good times in Tetris and
         Minesweeper.

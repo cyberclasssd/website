@@ -89,7 +89,7 @@
       innerClipPath="polygon(0 1.5rem, 100% 0, 100% 100%, 0% 100%)"
     >
       <h3 class="text-xl font-bold">ADVANCED CAMP</h3>
-      <h4 class="italic">June 10 - July 21st</h4>
+      <h4 class="italic">July 10 - July 21st</h4>
       <p class="my-2">
         Advanced Camp will be an upper level continuation of CyberClass Summer
         Camp. Students may attend if they previously participated in the
