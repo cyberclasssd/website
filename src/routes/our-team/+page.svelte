@@ -6,10 +6,10 @@
 <svelte:head>
   <title>CyberClass: Our Team</title>
 </svelte:head>
-<Header image="/our-team.png">OUR TEAM</Header>
+<Header image="/our-team.webp">OUR TEAM</Header>
 <main class="max-w-6xl m-auto px-8 flex flex-col content-center">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-2 md:gap-8">
-    <Person imageUrl="/people/stephen.jpg" altText="Stephen holding a trophy.">
+    <Person imageUrl="/people/stephen.webp" altText="Stephen holding a trophy.">
       <slot slot="name">Stephen Xu</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
@@ -24,7 +24,7 @@
         cybersecurity at a military/government conference.
       </slot>
     </Person>
-    <Person imageUrl="/people/justin.png" altText="Justin with sunglasses.">
+    <Person imageUrl="/people/justin.webp" altText="Justin with sunglasses.">
       <slot slot="name">Justin Luo</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -35,7 +35,7 @@
         also enjoys competitive math and inspirational quotes.
       </slot>
     </Person>
-    <Person imageUrl="/people/vivian.jpg" altText="Vivian and a wall.">
+    <Person imageUrl="/people/vivian.webp" altText="Vivian and a wall.">
       <slot slot="name">Vivian Ye</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -47,7 +47,7 @@
         computer science, she enjoys tennis and photography.
       </slot>
     </Person>
-    <Person imageUrl="/people/danniell.jpg" altText="Danniell with headphones.">
+    <Person imageUrl="/people/danniell.webp" altText="Danniell with headphones.">
       <slot slot="name">Danniell Xu</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -59,7 +59,7 @@
         Minesweeper.
       </slot>
     </Person>
-    <Person imageUrl="/people/ellin.jpg" altText="Ellin chilling with wall.">
+    <Person imageUrl="/people/ellin.webp" altText="Ellin chilling with wall.">
       <slot slot="name">Ellin Qiao</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
