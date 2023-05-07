@@ -7,8 +7,8 @@
   <title>CyberClass: Our Team</title>
 </svelte:head>
 <Header image="/our-team.webp">OUR TEAM</Header>
-<main class="max-w-6xl m-auto px-8 flex flex-col content-center">
-  <section class="md:grid lg:grid-cols-3 md:grid-cols-2 md:gap-8">
+<main class="flex flex-col content-center max-w-6xl px-8 m-auto">
+  <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
     <Person imageUrl="/people/stephen.webp" altText="Stephen holding a trophy.">
       <slot slot="name">Stephen Xu</slot>
       <slot slot="role">Lead Instructor</slot>
@@ -47,16 +47,18 @@
         computer science, she enjoys tennis and photography.
       </slot>
     </Person>
-    <Person imageUrl="/people/danniell.webp" altText="Danniell with headphones.">
+    <Person
+      imageUrl="/people/danniell.webp"
+      altText="Danniell with headphones."
+    >
       <slot slot="name">Danniell Xu</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
         Danniell is an incoming freshman at UCLA. He's been involved with
         CCA/PTMS Cyber for the past three years, where he has served as the head
-        captain of Linux. He has also placed third in HSCTF, the
-        longest-running high school CTF hacking competition. Danniell's hobbies
-        also include chemistry, and he has really good times in Tetris and
-        Minesweeper.
+        captain of Linux. He has also placed third in HSCTF, the longest-running
+        high school CTF hacking competition. Danniell's hobbies also include
+        chemistry, and he has really good times in Tetris and Minesweeper.
       </slot>
     </Person>
     <Person imageUrl="/people/ellin.webp" altText="Ellin chilling with wall.">
@@ -80,6 +82,16 @@
         is a member of Les Amateurs, where he has won 3rd in CMU's PicoCTF. In
         his free time, he loves working with low-level languages and tinkers
         with operating systems and bootloaders.
+      </slot>
+    </Person>
+    <Person imageUrl="/people/aiden.jpg" altText="Aiden smiling slightly">
+      <slot slot="name">Aiden Shi</slot>
+      <slot slot="role">Instructor</slot>
+      <slot slot="bio">
+        Aiden is a rising junior at Canyon Crest Academy. He is a member of Les
+        Amateurs primarily doing web exploitation. His hobbies include designing
+        and developing websites (including this one), playing with obscure
+        programming languages and spreading his knowledge with others.
       </slot>
     </Person>
   </section>
