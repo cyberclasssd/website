@@ -73,6 +73,29 @@
         competitive math, playing the piano, and dancing.
       </slot>
     </Person>
+    <Person imageUrl="/people/evan.webp" altText="Evan with a painting.">
+      <slot slot="name">Evan Luo</slot>
+      <slot slot="role">Instructor</slot>
+      <slot slot="bio">
+        Evan is a rising senior at Canyon Crest Academy. He's been competing in
+        CyberPatriot for the past two years, and is also an active CTF
+        participant, and placed 1st in the Socal Cyber Cup last year. He has
+        previously taught at CCA Math Team's Epsilon program, and also is an
+        instructor for the CyberPatriot club. Outside of cybersecurity, Evan
+        enjoys programming, competitive math, and whales.
+      </slot>
+    </Person>
+    <Person imageUrl="/people/jonathan.webp" altText="Jonathan with castle.">
+      <slot slot="name">Jonathan Xue</slot>
+      <slot slot="role">Instructor</slot>
+      <slot slot="bio">
+        Jonathan is a rising senior at Canyon Crest Academy. He's been
+        participating in CCA / PTMS Cyber for two years and taught in CyberClass
+        last year. Jonathan and other instructors have also won 2nd place in
+        AngstromCTF, winning 500 dollars in prizes; besides cybersecurity, he
+        enjoys playing video games, piano, and math.
+      </slot>
+    </Person>
     <Person imageUrl="/people/owen.webp" altText="Owen with a cool background.">
       <slot slot="name">Owen Kwan</slot>
       <slot slot="role">Instructor</slot>
@@ -84,7 +107,7 @@
         with operating systems and bootloaders.
       </slot>
     </Person>
-    <Person imageUrl="/people/aiden.jpg" altText="Aiden smiling slightly">
+    <Person imageUrl="/people/aiden.webp" altText="Aiden smiling slightly.">
       <slot slot="name">Aiden Shi</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -92,6 +115,31 @@
         Amateurs primarily doing web exploitation. His hobbies include designing
         and developing websites (including this one), playing with obscure
         programming languages, and spreading his knowledge to others.
+      </slot>
+    </Person>
+    <Person imageUrl="/people/matthew.webp" altText="Matthew in his garden.">
+      <slot slot="name">Matthew Ekairbeb</slot>
+      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="bio">
+        Matthew is a rising sophomore at Canyon Crest Academy. His first
+        introduction to cybersecurity was with the CCA CyberClass camp; ever
+        since he has been captivated by the subject. In addition to
+        cybersecurity, he teaches San Diego Math Circle's Turing class, which
+        teaches students about introductory competitive programming and advanced
+        programming skills. Outside of computer science, Matthew loves to surf
+        and listen to music.
+      </slot>
+    </Person>
+    <Person imageUrl="/people/larry.webp" altText="Larry with wall background.">
+      <slot slot="name">Larry Wu</slot>
+      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="bio">
+        Larry Wu is a rising sophomore at Canyon Crest Academy. He loves
+        cybersecurity and math. He's part of Les Amateurs, where he's placed 2nd
+        and 3rd in Angstrom for the past two years, winning $900. Additionally,
+        he's a USAJMO qualifier. In his free time, he loves to play his favorite
+        video games, like Minecraft and uses his cybersecurity skills to
+        impersonate people.
       </slot>
     </Person>
   </section>
