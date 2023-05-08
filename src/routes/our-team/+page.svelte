@@ -112,9 +112,9 @@
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
         Aiden is a rising junior at Canyon Crest Academy. He is a member of Les
-        Amateurs primarily doing web exploitation. His hobbies include designing
-        and developing websites (including this one), playing with obscure
-        programming languages, and spreading his knowledge to others.
+        Amateurs, primarily doing web exploitation. His hobbies include
+        designing and developing websites (including this one), playing with
+        obscure programming languages, and spreading his knowledge to others.
       </slot>
     </Person>
     <Person imageUrl="/people/matthew.webp" altText="Matthew in his garden.">
