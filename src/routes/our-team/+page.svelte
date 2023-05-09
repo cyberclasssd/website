@@ -134,7 +134,7 @@
       <slot slot="name">Larry Wu</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
-        Larry Wu is a rising sophomore at Canyon Crest Academy. He loves
+        Larry Wu is a rising junior at Canyon Crest Academy. He loves
         cybersecurity and math. He's part of Les Amateurs, where he's placed 2nd
         and 3rd in Angstrom for the past two years, winning $900. Additionally,
         he's a USAJMO qualifier. In his free time, he loves to play his favorite
