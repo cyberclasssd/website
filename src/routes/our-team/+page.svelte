@@ -138,8 +138,7 @@
         cybersecurity and math. He's part of Les Amateurs, where he's placed 2nd
         and 3rd in Angstrom for the past two years, winning $900. Additionally,
         he's a USAJMO qualifier. In his free time, he loves to play his favorite
-        video games, like Minecraft and uses his cybersecurity skills to
-        impersonate people.
+        video games, like Minecraft and other incremental number games.
       </slot>
     </Person>
   </section>
