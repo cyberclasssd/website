@@ -141,5 +141,18 @@
         video games, like Minecraft and other incremental number games.
       </slot>
     </Person>
+    <Person imageUrl="/people/lauren.webp" altText="Laren in a busy place.">
+      <slot slot="name">Lauren Kan</slot>
+      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="bio">
+        Lauren Kan is a rising sophomore at Canyon Crest Academy. She started
+        CyberPatriot in 8th grade after taking the CyberClass summer camp. In
+        the competition, she does Linux hardening, and has qualified for the
+        Platinum tier with her team. Additionally, she has four years of Java
+        coding experience and teaches two workshops and English to the elderly.
+        Besides cybersecurity, she spends her free time playing classical
+        guitar, badminton, and reading.
+      </slot>
+    </Person>
   </section>
 </main>
