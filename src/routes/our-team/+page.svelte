@@ -118,7 +118,7 @@
       </slot>
     </Person>
     <Person imageUrl="/people/matthew.webp" altText="Matthew in his garden.">
-      <slot slot="name">Matthew Ekairbeb</slot>
+      <slot slot="name">Matthew Ekaireb</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
         Matthew is a rising sophomore at Canyon Crest Academy. His first
