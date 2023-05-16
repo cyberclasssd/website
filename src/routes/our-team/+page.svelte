@@ -117,6 +117,19 @@
         obscure programming languages, and spreading his knowledge to others.
       </slot>
     </Person>
+  </section>
+  <section class="self-center max-w-3xl md:grid lg:grid-cols-2 md:grid-cols-2 md:gap-8">
+    <Person imageUrl="/people/maggie.webp" altText="Maggie at caltech.">
+      <slot slot="name">Maggie Zhang</slot>
+      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="bio">
+        Maggie is a rising junior at Canyon Crest Academy, where she competes in
+        CyberPatriots and develops STEM curriculum. Other than competing in
+        CyberPatriot's Platinum semifinals, she is also an AIME qualifier and
+        two-time Scholastic Gold Key writer. In addition to cybersecurity,
+        Maggie enjoys writing, drawing, and math.
+      </slot>
+    </Person>
     <Person imageUrl="/people/matthew.webp" altText="Matthew in his garden.">
       <slot slot="name">Matthew Ekaireb</slot>
       <slot slot="role">Teacher's Assistant</slot>
