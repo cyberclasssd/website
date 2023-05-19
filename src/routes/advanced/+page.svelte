@@ -21,14 +21,13 @@
     <strong>hands-on environment</strong>. See below for more detailed
     curriculum.
   </p>
-  <button class="flex items-center justify-center m-auto mt-8">
+  <button class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-limey">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:bg-sky-400 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-4xl"
+        innerClass="px-6 py-3 font-bold text-2xl"
       >
         Register Here
       </Box>
@@ -188,14 +187,13 @@
       </slot>
     </ScheduleDay>
   </section>
-  <button class="flex items-center justify-center m-auto mt-8">
+  <button class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-limey">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:bg-sky-400 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-4xl"
+        innerClass="px-6 py-3 font-bold text-2xl"
       >
         Register Here
       </Box>

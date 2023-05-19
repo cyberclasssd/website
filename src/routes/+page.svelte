@@ -55,14 +55,13 @@
     </div>
   </section>
 
-  <button class="flex items-center justify-center m-auto mt-8">
+  <button class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-limey">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:bg-blue-600 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-4xl"
+        innerClass="px-6 py-3 font-bold text-2xl"
       >
         Register Here
       </Box>
@@ -88,9 +87,9 @@
       <a href="/intro">
         <Box
           color="limey"
-          outerClass="w-fit hover:opacity-90 hover:bg-red-600 bg-white"
+          outerClass="w-fit hover:opacity-90 hover:bg-red-600"
           bleedColor="iris"
-          innerClass="px-4 py-1 font-semibold"
+          innerClass="px-4 py-1 font-semibold text-xl"
           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
           innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         >
@@ -117,8 +116,8 @@
       <a href="/advanced">
         <Box
           bleedColor="limey"
-          outerClass="w-fit ml-auto hover:opacity-90 hover:bg-blue-600 bg-white"
-          innerClass="px-4 py-1 font-semibold"
+          outerClass="w-fit ml-auto hover:opacity-90"
+          innerClass="px-4 py-1 font-semibold text-xl"
           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
           innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         >
