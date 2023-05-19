@@ -55,13 +55,16 @@
     </div>
   </section>
 
-  <button class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-limey">
+  <button
+    class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
+  >
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
+        outerClass="hover:bg-blue-600 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-6 py-3 font-bold text-2xl"
+        innerClass="px-6 py-3 font-bold text-4xl"
       >
         Register Here
       </Box>
@@ -116,7 +119,7 @@
       <a href="/advanced">
         <Box
           bleedColor="limey"
-          outerClass="w-fit ml-auto hover:opacity-90"
+          outerClass="w-fit ml-auto hover:opacity-90 hover:bg-blue-600"
           innerClass="px-4 py-1 font-semibold text-xl"
           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
           innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
