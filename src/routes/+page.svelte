@@ -25,7 +25,10 @@
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
       >
         <p>
-          "I really like how everything connected together like a puzzle piece!"
+          "I really liked that this class was taught by students which makes the
+          class more fun to participate in. My favorite activity was probably
+          the Pirate Ship Mystery. Its something I'm really interested and was
+          very fun!! Highly recommend the class!"
         </p>
       </Box>
       <div class="relative z-10 flex float-right -right-3 -top-12">
@@ -37,9 +40,9 @@
           <div class="w-3 h-3 col-start-1 row-start-2 bg-limey" />
         </div>
         <div class="bg-limey text-sm text-black w-fit py-[10px] px-3">
-          <span class="font-semibold">Linux Workshop Participant</span>
+          <span class="font-semibold">Introductory Camp Participant</span>
           <br />
-          <span>Park Village Elementary</span>
+          <span>Pacific Trails Middle School</span>
         </div>
         <div class="grid grid-cols-3 grid-rows-5">
           <div class="w-3 h-3 col-start-1 row-start-2 bg-limey" />
