@@ -20,12 +20,12 @@
   <button class="flex items-center justify-center m-auto mt-8">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
-        outerClass="hover:opacity-90"
+        outerClass="hover:bg-blue-600 bg-limey"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-lg"
+        innerClass="px-4 py-2 font-bold text-4xl"
       >
-        Register Now
+        Register Here
       </Box>
     </a>
   </button>
@@ -133,12 +133,12 @@
   <button class="flex items-center justify-center m-auto mt-8">
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
-        outerClass="hover:opacity-90"
+        outerClass="hover:bg-blue-600 bg-limey"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-lg"
+        innerClass="px-4 py-2 font-bold text-4xl"
       >
-        Register Now
+        Register Here
       </Box>
     </a>
   </button>

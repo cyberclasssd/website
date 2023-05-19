@@ -25,12 +25,12 @@
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:opacity-90"
+        outerClass="hover:bg-sky-400 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-lg"
+        innerClass="px-4 py-2 font-bold text-4xl"
       >
-        Register Now
+        Register Here
       </Box>
     </a>
   </button>
@@ -192,12 +192,12 @@
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:opacity-90"
+        outerClass="hover:bg-sky-400 bg-white"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-4 py-2 font-bold text-lg"
+        innerClass="px-4 py-2 font-bold text-4xl"
       >
-        Register Now
+        Register Here
       </Box>
     </a>
   </button>

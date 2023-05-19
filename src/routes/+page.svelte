@@ -16,7 +16,6 @@
     During our week-long summer camp, students will be given an immersive
     introduction to various important aspects of cybersecurity.
   </p>
-
   <section>
     <div class="mb-16">
       <Box
@@ -52,9 +51,24 @@
       </div>
     </div>
   </section>
+
+  <button class="flex items-center justify-center m-auto mt-8">
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        color="limey"
+        outerClass="hover:bg-blue-600 bg-white"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-4 py-2 font-bold text-4xl"
+      >
+        Register Here
+      </Box>
+    </a>
+  </button>
+
   <section>
     <Box
-      outerClass="mt-4"
+      outerClass="mt-16"
       innerClass="p-4 pb-8"
       outerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
       innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
