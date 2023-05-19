@@ -88,7 +88,7 @@
       <a href="/intro">
         <Box
           color="limey"
-          outerClass="w-fit hover:opacity-90"
+          outerClass="w-fit hover:opacity-90 hover:bg-red-600 bg-white"
           bleedColor="iris"
           innerClass="px-4 py-1 font-semibold"
           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
@@ -117,7 +117,7 @@
       <a href="/advanced">
         <Box
           bleedColor="limey"
-          outerClass="w-fit ml-auto hover:opacity-90"
+          outerClass="w-fit ml-auto hover:opacity-90 hover:bg-blue-600 bg-white"
           innerClass="px-4 py-1 font-semibold"
           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
           innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
