@@ -39,12 +39,12 @@
       <slot slot="name">Vivian Ye</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Vivian is currently the Co-President of CCA/PTMS Cyber, where she's
-        coached computer networking and forensics for three years. She is also a
-        CyberClass alumnus, having taken the course herself in her 8th-grade
-        summer, which got her interested in cybersecurity. This year, her team
-        placed 17th nationally at the Cyberpatriot semifinals. In addition to
-        computer science, she enjoys tennis and photography.
+        Vivian is a rising senior and currently the Co-President of CCA/PTMS
+        Cyber, where she's coached computer networking and forensics for three
+        years. She is also a CyberClass alumnus, having taken the course herself
+        in her 8th-grade summer, which sparked her in cybersecurity. This year,
+        her team placed 17th nationally at the Cyberpatriot semifinals. In
+        addition to computer science, she enjoys tennis and photography.
       </slot>
     </Person>
     <Person
@@ -118,7 +118,9 @@
       </slot>
     </Person>
   </section>
-  <section class="self-center max-w-3xl md:grid lg:grid-cols-2 md:grid-cols-2 md:gap-8">
+  <section
+    class="self-center max-w-3xl md:grid lg:grid-cols-2 md:grid-cols-2 md:gap-8"
+  >
     <Person imageUrl="/people/maggie.webp" altText="Maggie at caltech.">
       <slot slot="name">Maggie Zhang</slot>
       <slot slot="role">Teacher's Assistant</slot>
