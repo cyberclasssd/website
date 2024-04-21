@@ -2,6 +2,7 @@
   import "$lib/app.css";
   import Box from "$lib/components/Box.svelte";
   import Header from "$lib/components/Header.svelte";
+  import Testimonial from "$lib/components/Testimonial.svelte";
 </script>
 
 <svelte:head>
@@ -24,12 +25,7 @@
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
       >
-        <p>
-          "I really liked that this class was taught by students which makes the
-          class more fun to participate in. My favorite activity was probably
-          the Pirate Ship Mystery. Its something I'm really interested and was
-          very fun!! Highly recommend the class!"
-        </p>
+        <p>""</p>
       </Box>
       <div class="relative z-10 flex float-right -right-3 -top-12">
         <div class="grid grid-cols-3 grid-rows-5">
@@ -61,7 +57,7 @@
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
         color="limey"
-        outerClass="hover:bg-blue-600 bg-white"
+        outerClass="hover:bg-iris"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         innerClass="px-6 py-3 font-bold text-4xl"
@@ -130,3 +126,80 @@
     </Box>
   </section>
 </main>
+
+<section class="pt-16 mx-24">
+  <h2 class="mb-8 text-4xl font-semibold text-center text-limey text-glow">
+    TESTIMONIALS
+  </h2>
+  <div class="grid grid-cols-3 gap-8">
+    <div class="flex flex-col">
+      <Testimonial name="Sithara" level="Introductory Camp">
+        I really liked that this class was taught by students which makes the
+        class more fun to participate in. My favorite activity was probably the
+        Pirate Ship Mystery. Its something I'm really interested and was very
+        fun!! Highly recommend the class!
+      </Testimonial>
+      <Testimonial name="Samarth" level="Introductory Camp">
+        It was really, fun, educational and was awesome. Definitely recommend
+        it.
+      </Testimonial>
+      <Testimonial name="Amy" level="Advanced Camp">
+        I just liked learning about the different topics covered in a more in
+        depth manner and also learning about the cool things that can be done
+        due to the incompetency of people making websites and programs.
+      </Testimonial>
+    </div>
+    <div class="flex flex-col">
+      <Testimonial name="Kyle" level="Introductory Camp">
+        CyberClass introduced me to the world of competitive hacking/cryptology,
+        and taught me the basics in a field that I only had little knowledge in,
+        and gave me an interest in continuing to advance my knowledge in the
+        future.
+      </Testimonial>
+      <Testimonial name="Jason" level="Advanced Camp">
+        I really liked all the effort you guys put into it and everything you
+        did to help us learn. I enjoyed all the instructors and their styles of
+        teaching, and I appreciate how you have helped push my dream of CS even
+        further!
+      </Testimonial>
+      <Testimonial name="Ashton" level="Advanced Camp">
+        This camp was good for people who want to learn the basics of cysec and
+        teaches them the proper skills and assets to pursue oppurtunities in
+        this certain path.
+      </Testimonial>
+    </div>
+    <div class="flex flex-col">
+      <Testimonial name="Leher" level="Introductory Camp" color="iris">
+        The camp was fun, and I started it knowing nothing about cybersecurity.
+        Spending the time every day to learn taught me a lot, and the
+        instructors explained topics in easily understandable ways.
+      </Testimonial>
+      <Testimonial name="Ethan" level="Advanced Camp">
+        I like the pacing and decently well instructed. The team ctf was fun
+        too. This class allowed me to have a bigger scope on
+        cybersecurity/computer science topics and are quite revelant
+      </Testimonial>
+      <Testimonial name="Alex" level="Advanced Camp" color="iris">
+        CyberClass was a really fun summer camp because of the interesting
+        challenges and knowledgable instructors! I learned a lot about
+        cybersecurity and this camp helped pique my interest in the subject as a
+        whole, especially from the fun CTF at the end.
+      </Testimonial>
+    </div>
+  </div>
+</section>
+  <button
+    class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
+  >
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        color="limey"
+        outerClass="hover:bg-iris"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-6 py-3 font-bold text-4xl"
+      >
+        Register Here
+      </Box>
+    </a>
+  </button>

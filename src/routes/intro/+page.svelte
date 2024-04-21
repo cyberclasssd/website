@@ -22,7 +22,7 @@
   >
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
-        outerClass="hover:bg-blue-600 bg-limey"
+        outerClass="hover:bg-limey bg-iris"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         innerClass="px-8 py-4 font-bold text-4xl"
@@ -133,14 +133,15 @@
     </ScheduleDay>
   </section>
   <button
-    class="flex items-center justify-center m-auto mt-8 shadow-xl shadow-iris/75"
+    class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
   >
     <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
       <Box
-        outerClass="hover:bg-blue-600 bg-limey"
+        color="limey"
+        outerClass="hover:bg-iris"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
         innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-        innerClass="px-8 py-4 font-bold text-4xl"
+        innerClass="px-6 py-3 font-bold text-4xl"
       >
         Register Here
       </Box>
