@@ -78,8 +78,8 @@
       outerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
       innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
     >
-      <h3 class="text-xl font-bold">BEGINNERS CAMP</h3>
-      <h4 class="italic">June 12 - June 16th</h4>
+      <h3 class="text-xl font-bold">INTRODUCTORY CAMP</h3>
+      <h4 class="italic">June 24 - June 28th</h4>
       <p class="my-2">
         During our weeklong summer camp, students will be given an immersive
         introduction to various fascinating aspects of cybersecurity. We will
@@ -108,7 +108,7 @@
       innerClipPath="polygon(0 1.5rem, 100% 0, 100% 100%, 0% 100%)"
     >
       <h3 class="text-xl font-bold">ADVANCED CAMP</h3>
-      <h4 class="italic">July 10 - July 21st</h4>
+      <h4 class="italic">July 15 - July 26th</h4>
       <p class="my-2">
         Advanced Camp will be an upper level continuation of CyberClass Summer
         Camp. Students may attend if they previously participated in the
