@@ -47,8 +47,8 @@
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $200/student before 5/21</p>
-        <p>$250/student after 5/21</p>
+        <p>Early Bird: $200/student before 5/26</p>
+        <p>$250/student after 5/26</p>
         <p>Need based scholarships available.</p>
       </div>
       <div>
