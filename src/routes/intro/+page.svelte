@@ -41,7 +41,7 @@
     >
       <div>
         <h3 class="mb-2 text-lg font-semibold">DATES AND LOCATION</h3>
-        <p>June 12 - June 16 (Monday-Friday)</p>
+        <p>June 24 - June 28 (Monday-Friday)</p>
         <p>9:30 AM - 2:30 PM</p>
         <p>Online, via Zoom.</p>
       </div>

@@ -45,7 +45,7 @@
     >
       <div>
         <h3 class="mb-2 text-lg font-semibold">DATES AND LOCATION</h3>
-        <p>July 10 - July 21 (Two Weeks)</p>
+        <p>July 15 - July 26 (Two Weeks)</p>
         <p>9:30 AM - 5:00 PM</p>
         <p>Online, via Zoom.</p>
       </div>
