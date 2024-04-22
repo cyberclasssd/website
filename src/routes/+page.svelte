@@ -104,7 +104,7 @@
   <h2 class="mb-8 text-4xl font-semibold text-center text-limey text-glow">
     TESTIMONIALS
   </h2>
-  <div class="grid grid-cols-3 gap-8">
+  <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
     <div class="flex flex-col">
       <Testimonial name="Sithara" level="Introductory Camp">
         I really liked that this class was taught by students which makes the
