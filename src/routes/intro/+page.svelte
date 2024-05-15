@@ -169,14 +169,6 @@
         </p>
       </div>
       <div>
-        <h3 class="mb-2 text-lg font-semibold">WHAT'S YOUR REFUND POLICY?</h3>
-        <p>
-          Full refunds will be given, minus a $20 processing fee, for
-          cancellations requested before 6/6. No refunds may be issued after
-          6/6.
-        </p>
-      </div>
-      <div>
         <h3 class="mb-2 text-lg font-semibold">
           DO I NEED TO KNOW HOW TO CODE?
         </h3>
