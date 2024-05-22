@@ -43,10 +43,11 @@
   <section>
     <Box
       outerClass="mt-16"
-      innerClass="p-4 pb-8"
-      outerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
-      innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
+      innerClass="p-4"
     >
+    <!--       outerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
+      innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
+ -->
       <h3 class="text-xl font-bold">INTRODUCTORY CAMP</h3>
       <h4 class="italic">June 24 - June 28th</h4>
       <p class="my-2">
@@ -59,17 +60,18 @@
       <a href="/intro">
         <Box
           color="limey"
-          outerClass="w-fit hover:opacity-90 hover:bg-red-600"
+          outerClass="w-fit hover:opacity-90"
           bleedColor="iris"
           innerClass="px-4 py-1 font-semibold text-xl"
-          outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-          innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
         >
+        <!--           outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+          innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+ -->
           Learn More
         </Box>
       </a>
     </Box>
-    <Box
+    <!-- <Box
       color="limey"
       outerClass="-mt-4"
       innerClass="p-4 pt-6 text-right"
@@ -96,7 +98,7 @@
           Learn More
         </Box>
       </a>
-    </Box>
+    </Box> -->
   </section>
 </main>
 
