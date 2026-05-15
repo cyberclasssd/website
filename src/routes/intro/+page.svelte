@@ -75,12 +75,12 @@
           cybersecurity. We are extremely excited to share the world of
           cybersecurity with you!
         </p>
-        <p>
+        <!-- <p>
           See more about our instructors and team <a
             href="/our-team"
             class="underline hover:text-blue-500 visited:text-iris">here</a
           >.
-        </p>
+        </p> -->
       </div>
     </Box>
   </section>
