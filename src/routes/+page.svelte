@@ -27,7 +27,7 @@
   <button
     class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
   >
-    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
       <Box
         color="limey"
         outerClass="hover:bg-iris"
@@ -49,7 +49,7 @@
       innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
  -->
       <h3 class="text-xl font-bold">INTRODUCTORY CAMP</h3>
-      <h4 class="italic">June 24 - June 28th</h4>
+      <h4 class="italic">June 1st - June 5th</h4>
       <p class="my-2">
         During our weeklong summer camp, students will be given an immersive
         introduction to various fascinating aspects of cybersecurity. We will
@@ -166,7 +166,7 @@
 <button
   class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
 >
-  <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+  <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
     <Box
       color="limey"
       outerClass="hover:bg-iris"

@@ -20,7 +20,7 @@
   <button
     class="flex items-center justify-center m-auto mt-8 shadow-xl shadow-iris/75"
   >
-    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
       <Box
         outerClass="hover:bg-limey bg-iris"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
@@ -41,14 +41,14 @@
     >
       <div>
         <h3 class="mb-2 text-lg font-semibold">DATES AND LOCATION</h3>
-        <p>June 24 - June 28 (Monday-Friday)</p>
+        <p>June 1 - June 5 (Monday-Friday)</p>
         <p>9:30 AM - 2:30 PM</p>
         <p>Online, via Zoom.</p>
       </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $200/student before 5/26</p>
-        <p>$250/student after 5/26</p>
+        <p>Early Bird: $200/student before 5/23</p>
+        <p>$225/student after 5/23</p>
         <p>Need based scholarships available.</p>
       </div>
       <div>
@@ -126,16 +126,16 @@
       <slot slot="day">FRI</slot>
       <slot slot="description">
         We will cover <strong>password security</strong> and conclude the week
-        with a fun
-        <strong>ethical hacking competition</strong> (Capture the Flag style) to
-        put to use everything we've learned!
+        with a deep dive into how
+        <strong>AI prompt injections</strong> work and how AI
+        is utilized in bug-hunting.
       </slot>
     </ScheduleDay>
   </section>
   <button
     class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
   >
-    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
       <Box
         color="limey"
         outerClass="hover:bg-iris"

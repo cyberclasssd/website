@@ -24,7 +24,7 @@
   <button
     class="flex items-center justify-center m-auto mt-8 shadow-xl shadow-iris/75"
   >
-    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
       <Box
         outerClass="hover:bg-limey bg-iris"
         outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
@@ -192,7 +192,7 @@
   <button
     class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
   >
-    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <a href="https://forms.gle/Szq8jtvdV1TwpqEP8">
       <Box
         color="limey"
         outerClass="hover:bg-iris"
