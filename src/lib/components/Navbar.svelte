@@ -29,9 +29,9 @@
               <a class="hover:font-bold" href="/advanced"> Advanced Camp </a>
             </li> -->
 
-            <!-- <li>
+            <li>
               <a class="hover:font-bold" href="/our-team"> Our Team </a>
-            </li> -->
+            </li>
 
             <li>
               <a class="hover:font-bold" href="/more-programs">

@@ -24,18 +24,21 @@
     Academy's CyberPatriot.
   </p>
 
-  <div
-    class="flex items-center justify-center m-auto mt-8 opacity-70"
+  <button
+    class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
   >
-    <Box
-      color="limey"
-      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-      innerClass="px-6 py-3 font-bold text-3xl"
-    >
-      Registration Opens Soon
-    </Box>
-  </div>
+    <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+      <Box
+        color="limey"
+        outerClass="hover:bg-iris"
+        outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+        innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+        innerClass="px-6 py-3 font-bold text-4xl"
+      >
+        Register Here
+      </Box>
+    </a>
+  </button>
 
   <section>
     <Box
@@ -46,7 +49,7 @@
       innerClipPath="polygon(0 0, 100% 0, 100% calc(100% - 1.5rem), 0% 100%)"
  -->
       <h3 class="text-xl font-bold">INTRODUCTORY CAMP</h3>
-      <h4 class="italic">June 1 - June 5th</h4>
+      <h4 class="italic">June 24 - June 28th</h4>
       <p class="my-2">
         During our weeklong summer camp, students will be given an immersive
         introduction to various fascinating aspects of cybersecurity. We will
@@ -160,15 +163,18 @@
     </div>
   </div>
 </section>
-<div
-  class="flex items-center justify-center m-auto mt-8 opacity-70"
+<button
+  class="flex items-center justify-center m-auto mt-8 shadow-lg shadow-iris"
 >
-  <Box
-    color="limey"
-    outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
-    innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
-    innerClass="px-6 py-3 font-bold text-3xl"
-  >
-    Registration Opens Soon
-  </Box>
-</div>
+  <a href="https://forms.gle/FzKtkAMgtvR2SddGA">
+    <Box
+      color="limey"
+      outerClass="hover:bg-iris"
+      outerClipPath="polygon(8px 0%, 100% 0, 100% 100%, 0 100%, 0 8px)"
+      innerClipPath="polygon(6px 0%, 100% 0, 100% 100%, 0 100%, 0 6px)"
+      innerClass="px-6 py-3 font-bold text-4xl"
+    >
+      Register Here
+    </Box>
+  </a>
+</button>
