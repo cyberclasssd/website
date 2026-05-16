@@ -48,7 +48,7 @@
       also known as "pwn".
     </p>
     <p class="p-4">
-      A good place to start trying CTFs is picoCTF . It is a beginner friendly
+      A good place to start trying CTFs is picoCTF. It is a beginner friendly
       annual CTF competition but the problems are open year-round and can be
       found here: <a
         href="https://picoctf.com"
