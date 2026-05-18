@@ -70,10 +70,11 @@
         <p>
           Taught by National Finalists of CyberPatriot, winners of CMU's
           PicoCTF, and Presidents of Canyon Crest Academy's cybersecurity
-          program. All of our instructors have extensive experience coaching
-          middle and high schoolers and are incredibly passionate about
-          cybersecurity. We are extremely excited to share the world of
-          cybersecurity with you!
+          program, with alumni attending MIT, Caltech, CMU, UCLA, and 
+          UC Berkeley. All of our instructors have extensive experience 
+          coaching middle and high schoolers and are incredibly passionate
+          about cybersecurity. We are extremely excited to share the world
+          of cybersecurity with you!
         </p>
         <!-- <p>
           See more about our instructors and team <a
