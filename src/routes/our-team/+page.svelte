@@ -9,17 +9,16 @@
 <Header image="/our-team.webp">OUR TEAM</Header>
 <main class="flex flex-col content-center max-w-6xl px-8 m-auto">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
-    <Person imageUrl="/people/vivian.webp" altText="Vivian and a wall.">
-      <slot slot="name">Vivian Ye</slot>
+    <Person imageUrl="/people/null.webp" altText="No photo of Kriv yet.">
+      <slot slot="name">Kriv Jhajhria</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
-        Vivian is an incoming freshman at MIT and is currently the Co-President
-        of CCA/PTMS Cyber, where she's coached computer networking and forensics
-        for four years. She is also a CyberClass alumnus herself, having taken
-        the course during her 8th grade summer and citing CyberClass as the
-        initial spark of her interest in cybersecurity. This year, her team
-        placed 9th nationally at the Cyberpatriot semifinals. In addition to
-        computer science, she enjoys tennis and music.
+          Kriv Jhajhria is a rising sophomore at Canyon Crest Academy who fell in love with cybersecurity 
+          after joining CyberClass's first-ever workshops 6 years ago. He has competed in CTFs since 5th 
+          grade and represented CCA/PTMS CyberPatriot at the highest level for three years. Outside of 
+          security, he enjoys USACO competitive programming, personal projects (including hacking his 
+          Duolingo streak), reading, and creative writing. He's thrilled to share his passion with his 
+          students this summer. 
       </slot>
     </Person>
     <Person imageUrl="/people/aiden.webp" altText="Aiden smiling slightly.">
