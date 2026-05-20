@@ -13,87 +13,106 @@
       <slot slot="name">Kriv Jhajhria</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
-        Vivian is an incoming freshman at MIT and is currently the Co-President
-        of CCA/PTMS Cyber, where she's coached computer networking and forensics
-        for four years. She is also a CyberClass alumnus herself, having taken
-        the course during her 8th grade summer and citing CyberClass as the
-        initial spark of her interest in cybersecurity. This year, her team
-        placed 9th nationally at the Cyberpatriot semifinals. In addition to
-        computer science, she enjoys tennis and music.
+        Kriv Jhajhria is a rising sophomore at Canyon Crest Academy. Ever since
+        joining the first CyberClass workshops over 6 years ago, he fell in love
+        with cybersecurity and programming. He has participated in CTF
+        tournaments since 5th grade and competed for the CCA/PTMS CyberPatriot
+        program at the highest level for 3 years. Beyond cybersecurity, Kriv
+        enjoys competitive programming at the USACO gold division, personal
+        projects (including hacking his Duolingo streak), reading, and creative
+        writing. Crediting this camp for sparking his interest in cybersecurity,
+        he is excited to share its magic and importance with his students this
+        summer.
       </slot>
     </Person>
     <Person imageUrl="/people/aiden_shi.webp" altText="Aiden smiling slightly.">
-      <slot slot="name">Aiden Shi</slot>
-      <slot slot="role">Lead Instructor</slot>
+      <slot slot="name">Derek Ying</slot>
+      <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Aiden is a rising senior at Canyon Crest Academy. He is a member of Les
-        Amateurs, primarily doing web exploitation. His hobbies include
-        designing and developing websites (including this one), playing with
-        obscure programming languages, and spreading his knowledge to others.
+        Derek Ying is a rising senior at Canyon Crest Academy He's been
+        participating in CyberPatriots for all of high school, making Platinum
+        Semifinals this year. He is also an active participant in CTFs, and has
+        also placed 1st in the SoCal CyberCup last year, and 2nd this year.
+        Outside of CyberSecurity, Derek also enjoys programming, pokemon, and
+        goofy gambling games.
       </slot>
     </Person>
     <Person
       imageUrl="/people/danniell_xu.webp"
       altText="Danniell with headphones."
     >
-      <slot slot="name">Danniell Xu</slot>
+      <slot slot="name">Praneel Kona</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Danniell is an incoming freshman at UCLA. He's been involved with
-        CCA/PTMS Cyber for the past three years, where he has served as the head
-        captain of Linux. He has also placed third in HSCTF, the longest-running
-        high school CTF hacking competition. Danniell's hobbies also include
-        chemistry, and he has really good times in Tetris and Minesweeper.
+        Praneel Kona is a rising senior at Canyon Crest Academy. Ever since he
+        joined CCA/PTMS CyberPatriot, he has gained an interest in
+        cybersecurity, and capture the flag tournaments due to their nature as
+        fun, competitive, puzzles. His hobbies include learning about forensic
+        analysis (financial, computer and occasionally chemical), rock climbing,
+        and playing board games with friends.
       </slot>
     </Person>
     <Person imageUrl="/people/ellin_qiao.webp" altText="Ellin chilling with wall.">
-      <slot slot="name">Ellin Qiao</slot>
+      <slot slot="name">Aiden Bai</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Ellin is a rising senior at Canyon Crest Academy. She has participated
-        in Cyberpatriot since middle school and has achieved impressive results,
-        placing 4th nationally. She is also a winner of the Socal Cyber Cup
-        middle school division, where she secured the 1st position and a prize
-        of $3000. Besides her passion for cybersecurity, Ellin enjoys
-        competitive math, playing the piano, and dancing.
+        Aidan is a rising senior at Canyon Crest Academy with a solid foundation
+        in cybersecurity. His team earned the second highest score in PicoCTF,
+        with Aidan serving as an actively contributing member. Beyond
+        cybersecurity, he competes in USACO at the platinum division level and
+        supports the CCA math team.
       </slot>
     </Person>
     <Person imageUrl="/people/evan.webp" altText="Evan with a painting.">
-      <slot slot="name">Evan Luo</slot>
+      <slot slot="name">Stephen Ye</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Evan is a incoming freshman at UC Berkeley. He's been competing in
-        CyberPatriot for the past two years, and is also an active CTF
-        participant, and placed 1st in the Socal Cyber Cup last year. He has
-        previously taught at CCA Math Team's Epsilon program, and also is an
-        instructor for the CyberPatriot club. Outside of cybersecurity, Evan
-        enjoys programming, competitive math, and whales.
+        Stephen Ye is a rising senior at Canyon Crest Academy. He has been
+        involved in CyberPatriot for the past three years, primarily focusing on
+        Linux hardening, and also participates in CTF competitions. In addition
+        to cybersecurity, Stephen enjoys competitive programming and building
+        random coding projects. Outside of computer science, he likes playing
+        soccer with friends and listening to music.
       </slot>
     </Person>
     <Person imageUrl="/people/jonathan.webp" altText="Jonathan with castle.">
-      <slot slot="name">Jonathan Xue</slot>
+      <slot slot="name">Andy Wang</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Jonathan is a incoming freshman at UCLA. He's been participating in CCA
-        / PTMS Cyber for two years and taught in CyberClass last year. Jonathan
-        and other instructors have also won 2nd place in AngstromCTF, winning
-        500 dollars in prizes; besides cybersecurity, he enjoys playing video
-        games, piano, and math.
+        Andy Wang is a rising senior at Canyon Crest Academy. He has been
+        involved with CCA Cyberpatriot for the past three years, specializing in
+        Windows security for his team. He has also participated in other
+        cybersecurity competitions such as PicoCTF and SoCal Cybercup. In his
+        free time, he likes to play soccer, clarinet, and piano.
       </slot>
     </Person>
     <Person imageUrl="/people/owen.webp" altText="Owen with a cool background.">
-      <slot slot="name">Owen Kwan</slot>
+      <slot slot="name">Owen Mao</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
-        Owen is a rising senior at Canyon Crest Academy. As a former student of
-        the camp, CyberClass was his first introduction to computer hacking. He
-        is a member of Les Amateurs, where he has won 2nd in CMU's PicoCTF. In
-        his free time, he loves working with low-level languages and tinkers
-        with operating systems and bootloaders.
+        Owen Mao is a rising senior currently studying how to apply to college
+        at Canyon Crest Academy. He has done two years of Cisco and one year of
+        Linux, all in 2 years! He has been involved with cybersecurity for a
+        total of 3 years, placing among the top teams in PicoCTF and Socal
+        CyberCup each time. Aside from computer science, Owen enjoys science
+        bowling, especially Chemistry and Physics and Math and Physics, and is
+        always seeking to improve his paltry 14 minute Minecraft Speedrunning
+        PB.
+      </slot>
+    </Person>
+    <Person imageUrl="/people/owen.webp" altText="Owen with a cool background.">
+      <slot slot="name">Kaden Wu</slot>
+      <slot slot="role">Instructor</slot>
+      <slot slot="bio">
+        Kaden Wu is a rising junior at Canyon Crest Academy. He has done
+        CyberPatriot for 4 years with multiple semifinals appearances as a Linux
+        specialist. In CTFs, he specializes in Cryptography and Forensics. In
+        his free time, he enjoys playing music and tossing frisbees on sunny
+        afternoons.
       </slot>
     </Person>
   </section>
-  <section
+  <!-- <section
     class="self-center max-w-3xl md:grid lg:grid-cols-2 md:grid-cols-2 md:gap-8"
   >
     <Person imageUrl="/people/maggie.webp" altText="Maggie at caltech.">
@@ -144,5 +163,5 @@
         guitar, badminton, and reading.
       </slot>
     </Person>
-  </section>
+  </section> -->
 </main>
