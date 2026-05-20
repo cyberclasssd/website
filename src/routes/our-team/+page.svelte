@@ -4,13 +4,13 @@
 </script>
 
 <svelte:head>
-  <title>CyberClass: Alumni</title>
+  <title>CyberClass: Our Team</title>
 </svelte:head>
 <Header image="/our-team.webp">OUR TEAM</Header>
 <main class="flex flex-col content-center max-w-6xl px-8 m-auto">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
     <Person imageUrl="/people/vivian_ye.webp" altText="Vivian and a wall.">
-      <slot slot="name">Vivian Ye</slot>
+      <slot slot="name">Kriv Jhajhria</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
         Vivian is an incoming freshman at MIT and is currently the Co-President
