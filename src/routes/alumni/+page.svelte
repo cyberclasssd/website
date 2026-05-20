@@ -4,9 +4,9 @@
 </script>
 
 <svelte:head>
-  <title>CyberClass: Our Team</title>
+  <title>CyberClass: Alumni</title>
 </svelte:head>
-<Header image="/our-team.webp">OUR TEAM</Header>
+<Header image="/our-team.webp">Alumni</Header>
 <main class="flex flex-col content-center max-w-6xl px-8 m-auto">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
     <Person imageUrl="/people/vivian.webp" altText="Vivian and a wall.">
