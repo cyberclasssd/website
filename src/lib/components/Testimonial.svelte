@@ -19,11 +19,11 @@
 </Box>
 <div class="relative z-10 flex float-right -right-3 -top-12">
   <div class="grid grid-cols-3 grid-rows-5">
-    <div class="w-3 h-3 col-start-3 row-start-1 {blockColor}" />
-    <div class="w-3 h-3 col-start-3 row-start-3 {blockColor}" />
-    <div class="w-3 h-3 col-start-3 row-start-4 {blockColor}" />
-    <div class="w-3 h-3 col-start-2 row-start-4 {blockColor}" />
-    <div class="w-3 h-3 col-start-1 row-start-2 {blockColor}" />
+    <div class="w-3 h-3 col-start-3 row-start-1 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-3 row-start-3 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-3 row-start-4 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-2 row-start-4 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-1 row-start-2 {blockColor}"></div>
   </div>
   <div class="{blockColor} text-sm {blockText} w-fit py-[10px] px-6">
     <span class="font-semibold">{name}</span>
@@ -31,11 +31,11 @@
     <span>{level}</span>
   </div>
   <div class="grid grid-cols-3 grid-rows-5">
-    <div class="w-3 h-3 col-start-1 row-start-2 {blockColor}" />
-    <div class="w-3 h-3 col-start-1 row-start-4 {blockColor}" />
-    <div class="w-3 h-3 col-start-1 row-start-5 {blockColor}" />
-    <div class="w-3 h-3 col-start-2 row-start-4 {blockColor}" />
-    <div class="w-3 h-3 col-start-3 row-start-1 {blockColor}" />
+    <div class="w-3 h-3 col-start-1 row-start-2 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-1 row-start-4 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-1 row-start-5 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-2 row-start-4 {blockColor}"></div>
+    <div class="w-3 h-3 col-start-3 row-start-1 {blockColor}"></div>
   </div>
 </div>
 
