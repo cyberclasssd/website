@@ -11,7 +11,7 @@
 <Header>CYBERCLASS<br /> SUMMER CAMP</Header>
 <main class="max-w-3xl px-4 m-auto">
   <h2 class="mb-4 text-2xl font-semibold text-center text-iris">
-    SECURING THE FUTURE: YOUTH IN <span class="text-limey">CYBERSECURITY</span>
+    SECURING THE FUTURE: YOUTH IN <span class="text-limey">CYBERSECURITY</span>.
   </h2>
   <p class="px-4 mb-4">
     During our week-long summer camp, students will be given an immersive
