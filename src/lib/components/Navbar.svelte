@@ -41,7 +41,7 @@
           </ul>
         </div>
 
-        <div class="flex items-center gap-4 md:hidden">
+        <!-- <div class="flex items-center gap-4 md:hidden">
           <div class="w-8 h-8">
             <button
               class="p-2 text-white transition rounded hover:text-white/75"
@@ -63,7 +63,7 @@
               </svg>
             </button>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
