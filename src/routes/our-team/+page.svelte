@@ -51,7 +51,7 @@
       </slot>
     </Person>
     <Person imageUrl="/people/ellin_qiao.webp" altText="Aiden on top of a building.">
-      <slot slot="name">Aiden Bai</slot>
+      <slot slot="name">Aidan Bai</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
         Aidan is a rising senior at Canyon Crest Academy with a solid foundation
