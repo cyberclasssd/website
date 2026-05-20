@@ -9,7 +9,7 @@
 <Header image="/our-team.webp">OUR TEAM</Header>
 <main class="flex flex-col content-center max-w-6xl px-8 m-auto">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
-    <Person imageUrl="/people/vivian_ye.webp" altText="Kriv in a helicopter.">
+    <Person imageUrl="/people/kriv_jhajhria.webp" altText="Kriv in a helicopter.">
       <slot slot="name">Kriv Jhajhria</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
@@ -25,7 +25,7 @@
         summer.
       </slot>
     </Person>
-    <Person imageUrl="/people/aiden_shi.webp" altText="Derek in a school photo.">
+    <Person imageUrl="/people/derek_ying.webp" altText="Derek in a school photo.">
       <slot slot="name">Derek Ying</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -37,7 +37,7 @@
         goofy gambling games.
       </slot>
     </Person>
-    <Person imageUrl="/people/danniell_xu.webp" altText="Praneel at Six Flags."
+    <Person imageUrl="/people/praneel_kona.webp" altText="Praneel at Six Flags."
     >
       <slot slot="name">Praneel Kona</slot>
       <slot slot="role">Instructor</slot>
@@ -50,7 +50,7 @@
         and playing board games with friends.
       </slot>
     </Person>
-    <Person imageUrl="/people/ellin_qiao.webp" altText="Aiden on top of a building.">
+    <Person imageUrl="/people/aidan_bai.webp" altText="Aiden on top of a building.">
       <slot slot="name">Aidan Bai</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -61,7 +61,7 @@
         supports the CCA math team.
       </slot>
     </Person>
-    <Person imageUrl="/people/evan.webp" altText="Stephen with braces.">
+    <Person imageUrl="/people/stephen_ye.webp" altText="Stephen with braces.">
       <slot slot="name">Stephen Ye</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -73,7 +73,7 @@
         soccer with friends and listening to music.
       </slot>
     </Person>
-    <Person imageUrl="/people/jonathan.webp" altText="Andy in front of a window.">
+    <Person imageUrl="/people/andy_wang.webp" altText="Andy in front of a window.">
       <slot slot="name">Andy Wang</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -84,7 +84,7 @@
         free time, he likes to play soccer, clarinet, and piano.
       </slot>
     </Person>
-    <Person imageUrl="/people/owen.webp" altText="Owen in the abyss.">
+    <Person imageUrl="/people/owen_mao.webp" altText="Owen in the abyss.">
       <slot slot="name">Owen Mao</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -98,7 +98,7 @@
         PB.
       </slot>
     </Person>
-    <Person imageUrl="/people/owen.webp" altText="Kaden in front of a plant.">
+    <Person imageUrl="/people/kaden_wu.webp" altText="Kaden in front of a plant.">
       <slot slot="name">Kaden Wu</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">

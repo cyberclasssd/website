@@ -11,7 +11,7 @@
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
     <Person imageUrl="/alumni/vivian_ye.webp" altText="Vivian and a wall.">
       <slot slot="name">Vivian Ye</slot>
-      <slot slot="role">Lead Instructor</slot>
+      <slot slot="role"> Lead Instructor (2024)</slot>
       <slot slot="bio">
         Vivian is an incoming freshman at MIT and is currently the Co-President
         of CCA/PTMS Cyber, where she's coached computer networking and forensics
@@ -24,7 +24,7 @@
     </Person>
     <Person imageUrl="/alumni/aiden_shi.webp" altText="Aiden smiling slightly.">
       <slot slot="name">Aiden Shi</slot>
-      <slot slot="role">Lead Instructor</slot>
+      <slot slot="role"> Lead Instructor (2024)</slot>
       <slot slot="bio">
         Aiden is a rising senior at Canyon Crest Academy. He is a member of Les
         Amateurs, primarily doing web exploitation. His hobbies include
@@ -37,7 +37,7 @@
       altText="Danniell with headphones."
     >
       <slot slot="name">Danniell Xu</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role"> Instructor (2024)</slot>
       <slot slot="bio">
         Danniell is an incoming freshman at UCLA. He's been involved with
         CCA/PTMS Cyber for the past three years, where he has served as the head
@@ -48,7 +48,7 @@
     </Person>
     <Person imageUrl="/alumni/ellin_qiao.webp" altText="Ellin chilling with wall.">
       <slot slot="name">Ellin Qiao</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role"> Instructor (2024)</slot>
       <slot slot="bio">
         Ellin is a rising senior at Canyon Crest Academy. She has participated
         in Cyberpatriot since middle school and has achieved impressive results,
@@ -60,30 +60,30 @@
     </Person>
     <Person imageUrl="/alumni/evan_luo.webp" altText="Evan with a painting.">
       <slot slot="name">Evan Luo</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role"> Instructor (2024)</slot>
       <slot slot="bio">
         Evan is a incoming freshman at UC Berkeley. He's been competing in
         CyberPatriot for the past two years, and is also an active CTF
         participant, and placed 1st in the Socal Cyber Cup last year. He has
         previously taught at CCA Math Team's Epsilon program, and also is an
-        instructor for the CyberPatriot club. Outside of cybersecurity, Evan
+        Instructor (2024) for the CyberPatriot club. Outside of cybersecurity, Evan
         enjoys programming, competitive math, and whales.
       </slot>
     </Person>
     <Person imageUrl="/alumni/jonathan_xue.webp" altText="Jonathan with castle.">
       <slot slot="name">Jonathan Xue</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role"> Instructor (2024)</slot>
       <slot slot="bio">
         Jonathan is a incoming freshman at UCLA. He's been participating in CCA
         / PTMS Cyber for two years and taught in CyberClass last year. Jonathan
-        and other instructors have also won 2nd place in AngstromCTF, winning
+        and other Instructor (2024)s have also won 2nd place in AngstromCTF, winning
         500 dollars in prizes; besides cybersecurity, he enjoys playing video
         games, piano, and math.
       </slot>
     </Person>
     <Person imageUrl="/alumni/owen_kwan.webp" altText="Owen with a cool background.">
       <slot slot="name">Owen Kwan</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role"> Instructor (2024)</slot>
       <slot slot="bio">
         Owen is a rising senior at Canyon Crest Academy. As a former student of
         the camp, CyberClass was his first introduction to computer hacking. He
@@ -98,7 +98,7 @@
   >
     <Person imageUrl="/alumni/maggie_zhang.webp" altText="Maggie at caltech.">
       <slot slot="name">Maggie Zhang</slot>
-      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="role">Teacher's Assistant (2024)</slot>
       <slot slot="bio">
         Maggie is a rising senior at Canyon Crest Academy, where she competes in
         CyberPatriots and develops STEM curriculum. Other than competing in
@@ -109,7 +109,7 @@
     </Person>
     <Person imageUrl="/alumni/matthew_ekaireb.webp" altText="Matthew in his garden.">
       <slot slot="name">Matthew Ekaireb</slot>
-      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="role">Teacher's Assistant (2024)</slot>
       <slot slot="bio">
         Matthew is a rising junior at Canyon Crest Academy. His first
         introduction to cybersecurity was with the CCA CyberClass camp; ever
@@ -122,7 +122,7 @@
     </Person>
     <Person imageUrl="/alumni/larry_wu.webp" altText="Larry with wall background.">
       <slot slot="name">Larry Wu</slot>
-      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="role">Teacher's Assistant (2024)</slot>
       <slot slot="bio">
         Larry Wu is a rising senior at Canyon Crest Academy. He loves
         cybersecurity and math. He's part of Les Amateurs, where he's placed 2nd
@@ -133,7 +133,7 @@
     </Person>
     <Person imageUrl="/alumni/lauren_kan.webp" altText="Laren in a busy place.">
       <slot slot="name">Lauren Kan</slot>
-      <slot slot="role">Teacher's Assistant</slot>
+      <slot slot="role">Teacher's Assistant (2024)</slot>
       <slot slot="bio">
         Lauren Kan is a rising junior at Canyon Crest Academy. She started
         CyberPatriot in 8th grade after taking the CyberClass summer camp. In
