@@ -6,10 +6,10 @@
 <svelte:head>
   <title>CyberClass: Alumni</title>
 </svelte:head>
-<Header image="/our-team.webp">ALUMNI</Header>
+<Header image="/our-team.webp">OUR TEAM</Header>
 <main class="flex flex-col content-center max-w-6xl px-8 m-auto">
   <section class="md:grid lg:grid-cols-3 md:grid-cols-3 md:gap-8">
-    <Person imageUrl="/alumni/vivian_ye.webp" altText="Vivian and a wall.">
+    <Person imageUrl="/people/vivian_ye.webp" altText="Vivian and a wall.">
       <slot slot="name">Vivian Ye</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
@@ -22,7 +22,7 @@
         computer science, she enjoys tennis and music.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/aiden_shi.webp" altText="Aiden smiling slightly.">
+    <Person imageUrl="/people/aiden_shi.webp" altText="Aiden smiling slightly.">
       <slot slot="name">Aiden Shi</slot>
       <slot slot="role">Lead Instructor</slot>
       <slot slot="bio">
@@ -33,7 +33,7 @@
       </slot>
     </Person>
     <Person
-      imageUrl="/alumni/danniell_xu.webp"
+      imageUrl="/people/danniell_xu.webp"
       altText="Danniell with headphones."
     >
       <slot slot="name">Danniell Xu</slot>
@@ -46,7 +46,7 @@
         chemistry, and he has really good times in Tetris and Minesweeper.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/ellin_qiao.webp" altText="Ellin chilling with wall.">
+    <Person imageUrl="/people/ellin_qiao.webp" altText="Ellin chilling with wall.">
       <slot slot="name">Ellin Qiao</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -58,7 +58,7 @@
         competitive math, playing the piano, and dancing.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/evan_luo.webp" altText="Evan with a painting.">
+    <Person imageUrl="/people/evan.webp" altText="Evan with a painting.">
       <slot slot="name">Evan Luo</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -70,7 +70,7 @@
         enjoys programming, competitive math, and whales.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/jonathan_xue.webp" altText="Jonathan with castle.">
+    <Person imageUrl="/people/jonathan.webp" altText="Jonathan with castle.">
       <slot slot="name">Jonathan Xue</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -81,7 +81,7 @@
         games, piano, and math.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/owen_kwan.webp" altText="Owen with a cool background.">
+    <Person imageUrl="/people/owen.webp" altText="Owen with a cool background.">
       <slot slot="name">Owen Kwan</slot>
       <slot slot="role">Instructor</slot>
       <slot slot="bio">
@@ -96,7 +96,7 @@
   <section
     class="self-center max-w-3xl md:grid lg:grid-cols-2 md:grid-cols-2 md:gap-8"
   >
-    <Person imageUrl="/alumni/maggie_zhang.webp" altText="Maggie at caltech.">
+    <Person imageUrl="/people/maggie.webp" altText="Maggie at caltech.">
       <slot slot="name">Maggie Zhang</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
@@ -107,7 +107,7 @@
         Maggie enjoys writing, drawing, and math.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/matthew_ekaireb.webp" altText="Matthew in his garden.">
+    <Person imageUrl="/people/matthew.webp" altText="Matthew in his garden.">
       <slot slot="name">Matthew Ekaireb</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
@@ -120,7 +120,7 @@
         and listen to music.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/larry_wu.webp" altText="Larry with wall background.">
+    <Person imageUrl="/people/larry.webp" altText="Larry with wall background.">
       <slot slot="name">Larry Wu</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
@@ -131,7 +131,7 @@
         video games, like Minecraft and other incremental number games.
       </slot>
     </Person>
-    <Person imageUrl="/alumni/lauren_kan.webp" altText="Laren in a busy place.">
+    <Person imageUrl="/people/lauren.webp" altText="Laren in a busy place.">
       <slot slot="name">Lauren Kan</slot>
       <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
