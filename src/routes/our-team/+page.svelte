@@ -25,6 +25,18 @@
         summer.
       </slot>
     </Person>
+    <Person imageUrl="/people/stephen_ye.webp" altText="Stephen with braces.">
+      <slot slot="name">Stephen Ye</slot>
+      <slot slot="role">Instructor</slot>
+      <slot slot="bio">
+        Stephen Ye is a rising senior at Canyon Crest Academy. He has been
+        involved in CyberPatriot for the past three years, primarily focusing on
+        Linux hardening, and also participates in CTF competitions. In addition
+        to cybersecurity, Stephen enjoys competitive programming and building
+        random coding projects. Outside of computer science, he likes playing
+        soccer with friends and listening to music.
+      </slot>
+    </Person>
     <Person imageUrl="/people/derek_ying.webp" altText="Derek in a school photo.">
       <slot slot="name">Derek Ying</slot>
       <slot slot="role">Instructor</slot>
@@ -59,18 +71,6 @@
         with Aidan serving as an actively contributing member. Beyond
         cybersecurity, he competes in USACO at the platinum division level and
         supports the CCA math team.
-      </slot>
-    </Person>
-    <Person imageUrl="/people/stephen_ye.webp" altText="Stephen with braces.">
-      <slot slot="name">Stephen Ye</slot>
-      <slot slot="role">Instructor</slot>
-      <slot slot="bio">
-        Stephen Ye is a rising senior at Canyon Crest Academy. He has been
-        involved in CyberPatriot for the past three years, primarily focusing on
-        Linux hardening, and also participates in CTF competitions. In addition
-        to cybersecurity, Stephen enjoys competitive programming and building
-        random coding projects. Outside of computer science, he likes playing
-        soccer with friends and listening to music.
       </slot>
     </Person>
     <Person imageUrl="/people/andy_wang.webp" altText="Andy in front of a window.">
