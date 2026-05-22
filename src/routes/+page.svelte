@@ -30,6 +30,7 @@
   }
 </script>
 `}
+
 <svelte:head>
   <title>CyberClass: Home</title>
 </svelte:head>
