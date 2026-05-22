@@ -5,6 +5,31 @@
   import Testimonial from "$lib/components/Testimonial.svelte";
 </script>
 
+{@html `<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "url": "https://www.cyberclasscamp.com",
+    "sameAs": ["https://www.cyberclasscamp.com/alumni", "https://stuxf.dev/projects/cyberclass/"],
+    "logo": "https://www.cyberclasscamp.com/cyberclass_logo.png",
+    "name": "CyberClass",
+    "description": "Week-long summer camp offering hands-on cybersecurity education for students grades 5-12, taught by award-winning high school cybersecurity competitors",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Diego",
+      "addressCountry": "US",
+      "addressRegion": "California",
+      "postalCode": "92130"
+    },
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "cyberclasspres@gmail.com"
+    },
+    "email": "cyberclasspres@gmail.com",
+    "foundingDate": "2020-06-09"
+  }
+</script>
+`}
 <svelte:head>
   <title>CyberClass: Home</title>
 </svelte:head>
