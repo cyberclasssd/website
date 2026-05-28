@@ -45,12 +45,13 @@
         <p>9:00 AM - 2:00 PM</p>
         <p>Online, via Zoom.</p>
       </div>
-      <div>
-        <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
-        <p>Early Bird: $200/student before 5/23</p>
-        <p>$225/student after 5/23</p>
-        <p>Need based scholarships available.</p>
-      </div>
+    <div>
+      <h3 class="mb-2 text-lg font-semibold">TUITION</h3>
+      <p>Early Bird: $200/student before 5/23</p>
+      <p><s>$225/student after 5/23</s></p>
+      <p><strong>🎉 Limited-Time: 30% off — only $157.50/student</strong></p>
+      <p>Need based scholarships available.</p>
+    </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">ELIGIBILITY</h3>
         <p>Rising 5-9th graders.</p>
