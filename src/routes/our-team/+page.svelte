@@ -64,7 +64,7 @@
     </Person>
     <Person imageUrl="/people/aidan_bai.webp" altText="Aiden on top of a building.">
       <slot slot="name">Aidan Bai</slot>
-      <slot slot="role">Instructor</slot>
+      <slot slot="role">Teacher's Assistant</slot>
       <slot slot="bio">
         Aidan is a rising senior at Canyon Crest Academy with a solid foundation
         in cybersecurity. His team earned the second highest score in PicoCTF,
