@@ -54,7 +54,7 @@
     </div>
       <div>
         <h3 class="mb-2 text-lg font-semibold">ELIGIBILITY</h3>
-        <p>Rising 5-9th graders.</p>
+        <p>Rising 5-12th graders.</p>
         <p>Open to all skill levels.</p>
       </div>
     </Box>
